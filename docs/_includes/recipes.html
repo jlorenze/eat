@@ -1,0 +1,29 @@
+<!-- Recipes Section -->
+{% assign recipes_by_letter = 
+    site.recipes | group_by_exp: "recipe", "recipe.title | slice: 0, 1" %}
+
+
+<section id="recipes">
+    <div class="container">
+        <div class="row">
+            <div class="col-lg-12 text-center">
+                <h2 class="section-heading">Recipes</h2>
+            </div>
+        </div>
+        {% for letter in recipes_by_letter %}
+            <div class="row text-center">
+                <div class="col-md-3">
+                    <span class="fa-stack fa-4x">
+                        <i class="fa fa-square fa-stack-2x text-primary"></i>
+                        <strong class="fa-stack-1x">{{letter.name}}</strong>
+                    </span>
+                </div>
+                {% for recipe in letter.items %}
+                    <div class="col-md-9 text-left">
+                        <a href="{{ recipe.url | prepend: site.baseurl  }}" class="recipe-text">{{recipe.title}}</a>
+                    </div>
+                {% endfor %}
+            </div>
+        {% endfor %}
+    </div>
+</section>

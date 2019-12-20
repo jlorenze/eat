@@ -14,3 +14,10 @@ social:
 # Build settings
 markdown: kramdown
 permalink: pretty
+
+# things we want to access for organization
+collections:
+  recipes:
+    output: true
+  categories:
+    output: true

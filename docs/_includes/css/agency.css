@@ -33,6 +33,7 @@ a:focus,
 a:active,
 a.active {
     outline: 0;
+    text-decoration: none;
 }
 
 a {
@@ -55,6 +56,14 @@ h6 {
     text-transform: uppercase;
     font-family: {{ site.data.template.font.primary }};
     font-weight: 700;
+}
+
+.recipe-text {
+    text-transform: none;
+    font-family: {{ site.data.template.font.primary}};
+    color: #{{ site.data.template.color.muted }};
+    font-weight: 400;
+    font-size: 22px;
 }
 
 .img-centered {
@@ -773,7 +782,7 @@ ul.social-buttons li a:active {
     outline: 0;
 }
 
-.categories-modal .modal-content {
+.category-modal .modal-content {
     padding: 100px 0;
     min-height: 100%;
     border: 0;
@@ -784,32 +793,32 @@ ul.social-buttons li a:active {
     box-shadow: none;
 }
 
-.categories-modal .modal-content h2 {
+.category-modal .modal-content h2 {
     margin-bottom: 15px;
     font-size: 3em;
 }
 
-.categories-modal .modal-content p {
+.category-modal .modal-content p {
     margin-bottom: 30px;
 }
 
-.categories-modal .modal-content p.item-intro {
+.category-modal .modal-content p.item-intro {
     margin: 20px 0 30px;
     font-family: {{ site.data.template.font.secondary }};
     font-size: 16px;
     font-style: italic;
 }
 
-.categories-modal .modal-content ul.list-inline {
+.category-modal .modal-content ul.list-inline {
     margin-top: 0;
     margin-bottom: 30px;
 }
 
-.categories-modal .modal-content img {
+.category-modal .modal-content img {
     margin-bottom: 30px;
 }
 
-.categories-modal .close-modal {
+.category-modal .close-modal {
     position: absolute;
     top: 25px;
     right: 25px;
@@ -819,11 +828,11 @@ ul.social-buttons li a:active {
     cursor: pointer;
 }
 
-.categories-modal .close-modal:hover {
+.category-modal .close-modal:hover {
     opacity: .3;
 }
 
-.categories-modal .close-modal .lr {
+.category-modal .close-modal .lr {
     z-index: 1051;
     width: 1px;
     height: 75px;
@@ -834,7 +843,7 @@ ul.social-buttons li a:active {
     transform: rotate(45deg);
 }
 
-.categories-modal .close-modal .lr .rl {
+.category-modal .close-modal .lr .rl {
     z-index: 1052;
     width: 1px;
     height: 75px;
