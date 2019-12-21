@@ -1,37 +1,160 @@
-<html>
+---
+layout: default
+---
 
-  {% include head.html %}
-
-    <body id="page-top" class="index">
-
-<section id="categories" class="bg-light-gray">
-    <div class="container">
-        <div class="row">
-            <div class="col-lg-12 text-center">
-                <h2 class="section-heading">Categories</h2>
-            </div>
-        </div>
-        <div class="row">
-        {% for cat in site.categories %}
-            <div class="col-md-4 col-sm-6 categories-item">
-                <a href="#{{ cat.title }}" class="categories-link" data-toggle="modal">
-                    <div class="categories-hover">
-                        <div class="categories-hover-content">
-                            <i class="fa fa-plus fa-3x"></i>
-                        </div>
-                    </div>
-                    <img src="img/categories/{{ cat.thumbnail }}" class="img-responsive img-centered" alt="">
-                </a>
-                <div class="categories-caption">
-                    <h4>{{ cat.title }}</h4>
-                </div>
-            </div>
-        {% endfor %}
+<div class="container">
+    <div class="row">
+        <div class="col-lg-12 text-center">
+            <h2 class="recipe-heading">{{page.title}}</h2>
         </div>
     </div>
-</section>
+    <div class="row">
+        <div class="col-md-4 col-sm-4 text-center bg-light-gray recipe-ingredients">
+            <h4 class="section-heading">Ingredients</h4>
+            <ul class="text-left"> 
+                {% for ingredient in page.ingredients %}
+                    <li class="ingredient"> {{ ingredient | markdownify }} </li>
+                {% endfor %}
+            </ul>
+        </div>
+        <div class="col-md-8 col-sm-8 text-center">
+            <h4 class="section-heading">Make</h4>
+            <ol class="text-left"> 
+                {% for direction in page.directions %}
+                    <li class="ingredient"> {{ direction | markdownify }} </li>
+                {% endfor %}
+            </ol>
+            <br>
+            {% if page.time %}
+                <p class="text-left time">
+                    <span class="text-secondary"> TIME | </span>
+                    {{ page.time }} hours
+                </p>
+            {% endif %}
+            {% if page.yield %}
+                <p class="text-left yield">
+                    <span class="text-secondary"> YIELD | </span>
+                    {{ page.yield }} servings
+                </p>
+            {% endif %}
 
-    </body>
+            <!-- Add tags -->
+            {% if page.tags %}
+                <p class="text-left tag">
+                    <span class="text-secondary"> TAGS | </span>
+                    <!-- Painful process for sorting alphabetically -->
+                    {% assign i = 1 %}
+                    {%- capture lowerTags -%}
+                        {%- for tag in page.tags -%}
+                            {%- if i != page.tags.size -%}
+                                {{- tag | downcase -}},
+                            {%- else -%}
+                                {{- tag | downcase -}}
+                            {%- endif -%}
+                            {% assign i = i | plus:1 %}
+                        {%- endfor -%}
+                    {%- endcapture -%}
+                    {%- assign intermediate_sorted = lowerTags | split:',' -%}
+                    {%- assign sortedTags = intermediate_sorted | sort  -%}
 
-</html>
+                    {% assign i = 1 %}
+                    {% for tag in sortedTags %}
+                        <!-- Capitalize the words for printing -->
+                        {% assign words = tag | split: ' ' %}
+                        {% capture titlecase %}
+                            {% if i != page.tags.size %}
+                                {% for word in words %}
+                                        {{word | capitalize -}} 
+                                    {% endfor %},
+                            {% else %}
+                                {% for word in words %}
+                                    {{word | capitalize -}} 
+                                {% endfor %}
+                            {% endif %}
+                        {% endcapture %}
+
+                        {{ titlecase }}
+
+                        {% assign i = i | plus:1 %}
+                    {% endfor %}
+                </p>
+            {% endif %}
+
+            <!-- Add other foods that go well with this recipe -->
+            {% if page.pair %}
+                <p class="text-left pair">
+                    <span class="text-secondary"> PAIR | </span>
+                    <!-- Painful process for sorting alphabetically -->
+                    {% assign i = 1 %}
+                    {%- capture lowerPairs -%}
+                        {%- for pair in page.pair -%}
+                            {%- if i != page.pair.size -%}
+                                {{- pair | downcase -}},
+                            {%- else -%}
+                                {{- pair | downcase -}}
+                            {%- endif -%}
+                            {% assign i = i | plus:1 %}
+                        {%- endfor -%}
+                    {%- endcapture -%}
+                    {%- assign intermediate_sorted = lowerPairs | split:',' -%}
+                    {%- assign sortedPairs = intermediate_sorted | sort  -%}
+
+                    {% assign i = 1 %}
+                    {% for pair in sortedPairs %}
+                        <!-- Search to see if we have a recipe for this pair. -->
+                        {% assign found = false %}
+                        {% for recipe in site.recipes %}
+                            {% assign title-lower = recipe.title | downcase %}
+                            {% if title-lower == pair %}
+                                {% assign url = recipe.url | prepend: site.baseurl %}
+                                {% assign found = true %}
+                            {% endif %}
+                        {% endfor %}
+
+                        <!-- Capitalize the words for printing -->
+                        {% assign words = pair | split: ' ' %}
+                        {% capture titlecase %}
+                            {% if found == false %}
+                                {% if i != page.pair.size %}
+                                    {% for word in words %}
+                                        {{word | capitalize -}} 
+                                    {% endfor %},
+                                {% else %}
+                                    {% for word in words %}
+                                        {{word | capitalize -}} 
+                                    {% endfor %}
+                                {% endif %}
+                                
+                            {% else %}
+                                {% for word in words %}
+                                    {{word | capitalize -}} 
+                                {% endfor %}
+                            {% endif %}
+                        {% endcapture %}
+
+                        <!-- If no recipe was found -->
+                        {% if found == false %}
+                            {{ titlecase }}
+
+                        <!-- If a recipe was found -->
+                        {% else %}
+                            {% if i != page.pair.size %}
+                                <!-- <a href="{{ url }}" class="text-primary">{{titlecase}}</a>, -->
+                                <a href="{{url}}" class="page-scroll btn btn-sm">{{titlecase}}</a>,
+                            {% else %}
+                                <a href="{{ url }}" class="page-scroll btn btn-sm">{{titlecase}}</a>
+                            {% endif %}
+                        {% endif %}
+                        {% assign i = i | plus:1 %}
+                    {% endfor %}
+                </p>
+            {% endif %}
+        </div>
+    </div>
+</div>
+
+
+
+
+
 

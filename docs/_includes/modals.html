@@ -1,5 +1,9 @@
  <!-- Category Modals -->
- {% for cat in site.categories %}
+ {% assign recipes_by_letter = 
+    site.recipes | group_by_exp: "recipe", "recipe.title | slice: 0, 1" %}
+
+{% for cat in site.categories %}
+    {% assign cat-lower = cat.title | downcase %}
     <div class="category-modal modal fade" id="{{ cat.title }}" tabindex="-1" role="dialog" aria-hidden="true">
         <div class="modal-content">
             <div class="close-modal" data-dismiss="modal">
@@ -12,25 +16,20 @@
                 <div class="row">
                     <div class="col-lg-8 col-lg-offset-2">
                         <div class="modal-body">
-                            <h2>{{ cat.title }}</h2>
+                            <h2 class="category-heading">{{ cat.title }}</h2>
                             <hr class="star-primary">
-                            <img src="img/categories/{{ post.img }}" class="img-responsive img-centered" alt="{{ post.alt }}">
-                            <p>{{ cat.description }}</p>
-                            <ul class="list-inline item-details">
-                                <li>Client:
-                                    <strong><a href="http://startbootstrap.com">{{ cat.client }}</a>
-                                    </strong>
-                                </li>
-                                <li>Date:
-                                    <strong><a href="http://startbootstrap.com">{{ cat.project-date }}</a>
-                                    </strong>
-                                </li>
-                                <li>Service:
-                                    <strong><a href="http://startbootstrap.com">{{ cat.category }}</a>
-                                    </strong>
-                                </li>
-                            </ul>
-                            <button type="button" class="btn btn-default" data-dismiss="modal"><i class="fa fa-times"></i> Close</button>
+                            {% for letter in recipes_by_letter %}
+                                {% for recipe in letter.items %}
+                                    {% for tag in recipe.tags %}
+                                        {% assign tag-lower = tag | downcase %}
+                                        {% if tag-lower == cat-lower %}
+                                            <a href="{{ recipe.url | prepend: site.baseurl  }}" class="recipe-text">{{recipe.title}}</a>
+                                            <br>
+                                            {% break %}
+                                        {% endif %}
+                                    {% endfor %}
+                                {% endfor %}
+                            {% endfor %}
                         </div>
                     </div>
                 </div>

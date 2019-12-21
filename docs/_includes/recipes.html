@@ -2,7 +2,6 @@
 {% assign recipes_by_letter = 
     site.recipes | group_by_exp: "recipe", "recipe.title | slice: 0, 1" %}
 
-
 <section id="recipes">
     <div class="container">
         <div class="row">
@@ -12,17 +11,18 @@
         </div>
         {% for letter in recipes_by_letter %}
             <div class="row text-center">
-                <div class="col-md-3">
-                    <span class="fa-stack fa-4x">
+                <div class="col-md-4 col-sm-4">
+                    <span class="fa-stack fa-lg">
                         <i class="fa fa-square fa-stack-2x text-primary"></i>
-                        <strong class="fa-stack-1x">{{letter.name}}</strong>
+                        <strong class="fa-stack-1x text-white">{{letter.name}}</strong>
                     </span>
                 </div>
-                {% for recipe in letter.items %}
-                    <div class="col-md-9 text-left">
+                <div class="col-md-8 col-sm-8 text-left">
+                    {% for recipe in letter.items %}
                         <a href="{{ recipe.url | prepend: site.baseurl  }}" class="recipe-text">{{recipe.title}}</a>
-                    </div>
-                {% endfor %}
+                        <br>
+                    {% endfor %}
+                </div>
             </div>
         {% endfor %}
     </div>

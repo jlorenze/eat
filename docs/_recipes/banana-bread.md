@@ -2,10 +2,21 @@
 
 layout: recipe
 title:  "Banana Bread"
-image: banana-bread.jpg
-imagecredit: https://flic.kr/p/7HZmzn
-tags: breakfast, baking
-id: 1
+tags: 
+- breakfast
+- baking
+- pasta
+- bread
+- that
+- other
+yield: 1
+time: 0.5
+pair:
+- steak
+- Soup
+- banana bread
+- cheese sauce
+- zebra
 
 ingredients:
 - 4 bananas
@@ -16,7 +27,7 @@ ingredients:
 - 1/2 tsp baking soda
 - 1 tsp baking powder
 - pinch salt
-- 1/4 cup nuts (we like pecans)
+- 1/4 cup nuts (we like pecans and a lot of extra text to see what happens)
 
 directions:
 - Beat the eggs, then cream with the butter and sugar

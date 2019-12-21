@@ -3,8 +3,14 @@
 layout: recipe
 title:  "Soup"
 image: broccoli-beer-cheese-soup.jpg
-tags: sides, soups
-id: 2
+tags: 
+- sides
+- soups
+- bread
+pair:
+- steak
+- Soup
+- banana bread
 
 ingredients:
 - 4 tablespoons butter

@@ -18,6 +18,14 @@ body {
     color: #{{ site.data.template.color.primary }};
 }
 
+.text-secondary {
+    color: #{{ site.data.template.color.secondary }};
+}
+
+.text-white {
+    color: #fff;
+}
+
 p {
     font-size: 14px;
     line-height: 1.75;
@@ -58,6 +66,7 @@ h6 {
     font-weight: 700;
 }
 
+
 .recipe-text {
     text-transform: none;
     font-family: {{ site.data.template.font.primary}};
@@ -66,8 +75,94 @@ h6 {
     font-size: 22px;
 }
 
+.recipe-heading {
+    text-transform: none;
+    /*font-family: {{ site.data.template.font.primary}};*/
+    font-family: "Kaushan Script","Helvetica Neue",Helvetica,Arial,cursive;
+    color: #{{ site.data.template.color.primary }};
+    font-weight: 300;
+    font-size: 50px;
+    padding-top: 60px;
+    padding-bottom: 0px;
+}
+
+@media(min-width:768px) {
+    .recipe-heading {
+        padding-top: 70px;
+        padding-bottom: 10px;
+    }
+}
+
+.category-heading {
+    text-transform: none;
+    /*font-family: {{ site.data.template.font.primary}};*/
+    font-family: "Kaushan Script","Helvetica Neue",Helvetica,Arial,cursive;
+    color: #{{ site.data.template.color.primary }};
+    font-weight: 300;
+}
+
+.recipe-ingredients {
+    border-radius: 30px 30px 30px 30px;
+    padding-bottom: 20px;
+}
+
+li.ingredient{
+    margin: -7px 0;
+    font-family: {{ site.data.template.font.primary}};    
+}
+
+.time{
+    margin: 0px 0;
+    margin-top: 30px;
+    position: relative;
+    left: 29px;
+    font-family: {{ site.data.template.font.primary}};    
+}
+
+.yield{
+    margin: 0px 0;
+    position: relative;
+    left: 22px; 
+    font-family: {{ site.data.template.font.primary}};    
+}
+
+.tag{
+    margin: 0px 0;
+    position: relative;
+    left: 27px; 
+    font-family: {{ site.data.template.font.primary}};    
+}
+
+.pair{
+    margin: 0px 0;
+    position: relative;
+    left: 30px; 
+    font-family: {{ site.data.template.font.primary}};    
+}
+
+@media(min-width:800px) {
+    ol {
+    padding-left: 80px;
+    }
+    .time {
+        left: 69px;
+    }
+    .yield{
+        left: 62px; 
+    }
+    .tag{
+        left: 67px; 
+    }
+    .pair{
+        left: 70px; 
+    }
+}
+
 .img-centered {
     margin: 0 auto;
+    object-fit: cover;
+    width: 300px;
+    height: 250px;
 }
 
 .bg-light-gray {
@@ -123,6 +218,54 @@ fieldset[disabled] .btn-primary.active {
 }
 
 .btn-primary .badge {
+    color: #{{ site.data.template.color.primary }};
+    background-color: #fff;
+}
+
+.btn-sm {
+    padding: 0px 1px;
+    border-color: #{{ site.data.template.color.tertiary }};
+    border-radius: 4px;
+    color: #fff;
+    background-color: #{{ site.data.template.color.tertiary }};
+}
+
+.btn-sm:hover,
+.btn-sm:focus,
+.btn-sm:active,
+.btn-sm.active,
+.open .dropdown-toggle.btn-sm {
+    border-color: #{{ site.data.template.color.primary }};
+    color: #fff;
+    background-color: #{{ site.data.template.color.primary }};
+}
+
+.btn-sm:active,
+.btn-sm.active,
+.open .dropdown-toggle.btn-sm {
+    background-image: none;
+}
+
+.btn-sm.disabled,
+.btn-sm[disabled],
+fieldset[disabled] .btn-sm,
+.btn-sm.disabled:hover,
+.btn-sm[disabled]:hover,
+fieldset[disabled] .btn-sm:hover,
+.btn-sm.disabled:focus,
+.btn-sm[disabled]:focus,
+fieldset[disabled] .btn-sm:focus,
+.btn-sm.disabled:active,
+.btn-sm[disabled]:active,
+fieldset[disabled] .btn-sm:active,
+.btn-sm.disabled.active,
+.btn-sm[disabled].active,
+fieldset[disabled] .btn-sm.active {
+    border-color: #{{ site.data.template.color.primary }};
+    background-color: #{{ site.data.template.color.primary }};
+}
+
+.btn-sm .badge {
     color: #{{ site.data.template.color.primary }};
     background-color: #fff;
 }
@@ -219,7 +362,7 @@ fieldset[disabled] .btn-xl.active {
     font-family: {{ site.data.template.font.primary }};
     font-weight: 400;
     letter-spacing: 1px;
-    color: #fff;
+    color: #{{ site.data.template.color.primary }};
     -webkit-transition: all ease .35s;
     -moz-transition: all ease .35s;
     transition: all ease .35s;
@@ -228,7 +371,7 @@ fieldset[disabled] .btn-xl.active {
 .navbar-default .nav li a:hover,
 .navbar-default .nav li a:focus {
     outline: 0;
-    color: #{{ site.data.template.color.primary }};
+    color: #{{ site.data.template.color.secondary }};
 }
 
 .navbar-default .navbar-nav>.active>a {
@@ -245,7 +388,7 @@ fieldset[disabled] .btn-xl.active {
 
 @media(min-width:768px) {
     .navbar-default {
-        padding: 25px 0;
+        padding: 15px 0;
         border: 0;
         background-color: transparent;
         -webkit-transition: padding .3s;
@@ -265,13 +408,12 @@ fieldset[disabled] .btn-xl.active {
     }
 
     .navbar-default.navbar-shrink {
-        padding: 10px 0;
         background-color: #222;
+        -webkit-transition: all .3s;
+        -moz-transition: all .3s;
+        transition: all .3s;
     }
 
-    .navbar-default.navbar-shrink .navbar-brand {
-        font-size: 1.5em;
-    }
 }
 
 header {
@@ -343,6 +485,12 @@ section h2.section-heading {
     font-size: 40px;
 }
 
+h4.section-heading {
+    font-weight: 300;
+    padding: 20px 0;
+    color: #{{ site.data.template.color.secondary }};
+}
+
 section h3.section-subheading {
     margin-bottom: 75px;
     text-transform: none;
@@ -383,7 +531,7 @@ section h3.section-subheading {
     -webkit-transition: all ease .5s;
     -moz-transition: all ease .5s;
     transition: all ease .5s;
-    background: rgba(254,209,54,.9); /* Fallback when no plugin support */
+    background: rgba(145, 0, 25,.8); /* Fallback when no plugin support */
     background: rgba({{ site.data.template.color.primary | hex_to_rgb | join: ',' }}, .9);
 }
 
@@ -837,7 +985,7 @@ ul.social-buttons li a:active {
     width: 1px;
     height: 75px;
     margin-left: 35px;
-    background-color: #222;
+    background-color: #{{ site.data.template.color.primary }};
     -webkit-transform: rotate(45deg);
     -ms-transform: rotate(45deg);
     transform: rotate(45deg);
@@ -847,7 +995,7 @@ ul.social-buttons li a:active {
     z-index: 1052;
     width: 1px;
     height: 75px;
-    background-color: #222;
+    background-color: #{{ site.data.template.color.primary }};
     -webkit-transform: rotate(90deg);
     -ms-transform: rotate(90deg);
     transform: rotate(90deg);

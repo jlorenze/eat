@@ -1,12 +1,10 @@
 ---
-title: Bread
+title: Candy
 subtitle: Subtitle
 layout: default
-modal-id: 6
-img: bread.png
-thumbnail: bread.png
+img: pasta.jpg
+thumbnail: pasta.jpg
 alt: image-alt
-category: bread
+category: candy
 description: Description
-
 ---

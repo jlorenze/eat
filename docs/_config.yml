@@ -3,17 +3,10 @@ baseurl: /eat
 
 # Site settings
 title: Eat
-email: your-email@domain.com
-description: "Write an awesome description for your new site here. You can edit this line in _config.yml. It will appear in your document head meta (for Google search results) and in your feed.xml site description."
-
-# Social networks usernames (many more available: google-plus, flickr, dribbble, pinterest, instagram, tumblr, linkedin, etc.)
-social:
-  - title: github
-    url: http://github.com/jlorenze
+description: "A simple, ad-free, no-nonsense recipe viewer."
 
 # Build settings
 markdown: kramdown
-permalink: pretty
 
 # things we want to access for organization
 collections:
