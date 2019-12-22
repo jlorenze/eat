@@ -2,7 +2,7 @@ A simple website for organizing and displaying recipes for personal use only. As
 
 https://jlorenze.github.io/eat/
 
-
+To add a recipe, copy the template recipe file into the recipes directory and add the recipe. Then run "python build.py" to rebuild all markdown files and commit to the repo. GitHub pages will then rebuilt the site automatically using Jekyll.
 
 To build the site locally run
 
