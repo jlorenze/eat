@@ -39,8 +39,8 @@ if __name__ == '__main__':
             if tag not in tags:
                 if tag != '':
                     tags.append(tag)
-                elif tag == '' and 'default' not in tags:
-                    tags.append('default')
+                # elif tag == '' and 'default' not in tags:
+                #     tags.append('default')
                 
 
     # Create category file for each tag
