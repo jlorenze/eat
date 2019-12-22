@@ -13,7 +13,6 @@ ingredients:
 - 2 1/2 cups all purpose flour
 - 1 tsp baking soda
 - 1 tsp cream of tartar
-- -
 - 2 cups powdered sugar
 - 1/3 cup butter, softened
 - 1/2 tsp vanilla
