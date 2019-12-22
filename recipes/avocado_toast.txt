@@ -1,14 +1,12 @@
 Avocado Toast
 
-Category: breakfast
-
 Yield: 2
 
 Time (hours): 0.25
 
-Keywords: american
+Keywords: american, breakfast
 
-Recommended Sides: broccoli, veggies
+Recommended Sides:
 
 Ingredients:
 2 eggs
@@ -16,8 +14,6 @@ Ingredients:
 1/4 cup salsa
 1 tsp garlic salt
 2 slices heavy whole wheat bread
-
-Prep:
 
 Make:
 1. Heat pan to med, cook eggs over-easy to over-med.

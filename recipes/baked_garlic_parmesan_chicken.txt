@@ -1,12 +1,10 @@
 Baked Garlic Parmesan Chicken
 
-Category: Main
-
 Yield: 6
 
 Time (hours): .75
 
-Keywords: italian
+Keywords: italian, meat
 
 Recommended Sides: pasta, salad, asparagus, roasted tomato
 
@@ -18,10 +16,6 @@ Ingredients:
 1 tsp dried basil
 1/4 tsp pepper
 6 skinless boneless chicken breast halves
-
-Prep:
-A. olive oil, garlic
-B. bread crumbs, cheese, basil, pepper
 
 Make:
 1. Preheat oven to 350F. Grease 9x13 baking dish.
