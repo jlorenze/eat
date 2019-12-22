@@ -5,10 +5,10 @@ time: 0.5
 tags:
 - asian
 pair:
-- sushi (spicy tuna roll)
-- sushi (california roll)
-- sushi (vegetarian roll)
-- sushi (philly roll)
+- sushi ( spicy tuna roll )
+- sushi ( california roll )
+- sushi ( vegetarian roll )
+- sushi ( philly roll )
 ingredients:
 - 2 cups white rice (sushi rice)
 - 1/2 cup rice vinegar

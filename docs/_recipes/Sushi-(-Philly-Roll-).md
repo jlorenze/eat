@@ -7,9 +7,9 @@ tags:
 - seafood
 pair:
 - sushi rice
-- sushi (spicy tuna roll)
-- sushi (california roll)
-- sushi (vegetarian roll)
+- sushi ( spicy tuna roll )
+- sushi ( california roll )
+- sushi ( vegetarian roll )
 ingredients:
 - sushi rice
 - smoked salmon
@@ -17,4 +17,6 @@ ingredients:
 - cucumber
 - carrot
 - sesame seeds
+directions:
+- Roll it up!
 ---

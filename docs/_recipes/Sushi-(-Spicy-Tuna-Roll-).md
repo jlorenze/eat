@@ -7,9 +7,9 @@ tags:
 - seafood
 pair:
 - sushi rice
-- sushi (california roll)
-- sushi (philly roll)
-- sushi (vegetarian roll)
+- sushi ( california roll )
+- sushi ( philly roll )
+- sushi ( vegetarian roll )
 ingredients:
 - sushi rice
 - 5 oz can tuna in water
@@ -21,4 +21,7 @@ ingredients:
 - cucumber
 - shredded carrot
 - sesame seeds
+directions:
+- Combine tuna, sriracha, chili oil, rice vinegar, scallions, and mayonnaise
+- Roll it up!
 ---

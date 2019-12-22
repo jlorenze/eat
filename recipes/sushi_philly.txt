@@ -6,7 +6,7 @@ Time (hours): 1
 
 Keywords: asian, seafood
 
-Recommended Sides: sushi rice, Sushi (Spicy Tuna Roll), Sushi (California Roll), Sushi (Vegetarian Roll)
+Recommended Sides: sushi rice, Sushi ( Spicy Tuna Roll ), Sushi ( California Roll ), Sushi ( Vegetarian Roll )
 
 Ingredients:
 sushi rice
@@ -17,4 +17,5 @@ carrot
 sesame seeds
 
 Make:
+1. Roll it up!
 

@@ -7,13 +7,15 @@ tags:
 - seafood
 pair:
 - sushi rice
-- sushi (spicy tuna roll)
-- sushi (philly roll)
-- sushi (vegetarian roll)
+- sushi ( spicy tuna roll )
+- sushi ( philly roll )
+- sushi ( vegetarian roll )
 ingredients:
 - sushi rice
 - crab
 - cucumber
 - avocado
 - sesame seeds
+directions:
+- Roll it up!
 ---
