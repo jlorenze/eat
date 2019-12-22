@@ -37,7 +37,11 @@ if __name__ == '__main__':
         # Add new categories to array
         for tag in recipe["tags"]:
             if tag not in tags:
-                tags.append(tag)
+                if tag != '':
+                    tags.append(tag)
+                elif tag == '' and 'default' not in tags:
+                    tags.append('default')
+                
 
     # Create category file for each tag
     needed = []
