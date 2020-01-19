@@ -8,6 +8,7 @@ tags:
 pair:
 - bread
 - salad
+- caprese salad
 ingredients:
 - 2 eggs
 - 2 egg yolks
