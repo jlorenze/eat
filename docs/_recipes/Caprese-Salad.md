@@ -7,7 +7,7 @@ tags:
 - salad
 pair:
 - pasta carbonara
-- spaghetti with arugula and proscuitto
+- spaghetti with arugula and prosciutto
 ingredients:
 - 2 large ripe and meaty tomatos
 - 8 oz fresh mozzarella
