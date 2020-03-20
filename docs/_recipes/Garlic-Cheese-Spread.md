@@ -16,4 +16,6 @@ ingredients:
 directions:
 - Combine in small bowl, add salt to taste
 - Add other herbs, parsley, sun-dried tomatoes, olives etc. if desired
+notes:
+- 
 ---

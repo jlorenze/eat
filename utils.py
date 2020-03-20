@@ -3,6 +3,9 @@ import pdb
 import os
 
 def load_recipe(filename):
+    """ Loads the recipe txt file and parses it, outputs a dictionary
+    with all of the components of the recipe. Future work would
+    be to actually switch from using txt files to using YAML files """
     with open(filename, 'r') as f:
         lines = f.readlines()
 
@@ -75,6 +78,25 @@ def load_recipe(filename):
         i += 1
     recipe["make"] = make
 
+    # Notes
+    i = 1
+    has_notes = True
+    while 'notes' not in lines[i].lower() or 'note' not in lines[i].lower():
+        i += 1
+        if i >= len(lines):
+            has_notes = False
+            break
+
+    notes = []
+    if has_notes:
+        i += 1
+        while i < len(lines) and lines[i].lower() != '\n':
+            note = '.'.join(lines[i].strip().strip('.').split('.')[1:])
+            notes.append(note.strip(' '))
+            i += 1
+            
+    recipe["notes"] = notes
+
     return recipe
 
 
@@ -118,6 +140,11 @@ def write_recipe_md(recipe, rec_dir):
             file.write('directions:\n')
             for instr in recipe["make"]:
                 file.write('- {}\n'.format(instr))
+
+        if recipe["notes"]:
+            file.write('notes:\n')
+            for note in recipe["notes"]:
+                file.write('- {}\n'.format(note))
 
         file.write('---\n')
 

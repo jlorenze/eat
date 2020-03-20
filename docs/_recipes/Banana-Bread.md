@@ -21,4 +21,6 @@ ingredients:
 directions:
 - Mix dry mix into wet mix. Pour into loaf pan
 - Bake at 350F for 40-50 min. Knife should come out clean after inserting
+notes:
+- Dark chocolate chips would be a nice addition, of course
 ---

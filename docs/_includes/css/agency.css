@@ -118,6 +118,14 @@ li.ingredient{
     font-family: {{ site.data.template.font.primary}};    
 }
 
+li.note{
+    list-style-type: none;
+    margin: -11px 0;
+    position: relative;
+    left: 75px;
+    font-family: {{ site.data.template.font.primary}};    
+}
+
 .time{
     margin: 0px 0;
     margin-top: 30px;
@@ -144,6 +152,14 @@ li.ingredient{
     margin: 0px 0;
     position: relative;
     left: 30px; 
+    font-family: {{ site.data.template.font.primary}};    
+}
+
+.notes{
+    margin: 0px 0;
+    position: relative;
+    left: 55px;
+    margin-bottom: -23px;
     font-family: {{ site.data.template.font.primary}};    
 }
 

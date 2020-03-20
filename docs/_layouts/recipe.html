@@ -149,6 +149,18 @@ layout: default
                     {% endfor %}
                 </p>
             {% endif %}
+
+            <!-- If recipes has notes -->
+            {% if page.notes %}
+                <p class="text-left notes">
+                    <span class="text-secondary"> NOTES | </span>
+                </p>
+                <ul class="text-left"> 
+                    {% for note in page.notes %}
+                        <li class="note"> {{ note | markdownify }} </li>
+                    {% endfor %}
+                </ul>
+            {% endif %}
         </div>
     </div>
 </div>
