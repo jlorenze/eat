@@ -16,7 +16,7 @@ ingredients:
 - 1 tsp lemon zest, finely grated
 - 2 tbsp lemon juice
 - 2 tbsp olive oil
-- 5 oz can tuna in water, drained
+- 2 5 oz can tuna in water, drained
 - 1 celery stalk, chopped
 - 1 small shallot, chopped
 - 1 garlic clove, minced
