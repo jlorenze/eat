@@ -4,6 +4,7 @@ yield: 8
 time: 0.5
 tags:
 - soups-stews
+- american
 pair:
 - sweet cornbread
 - chili dogs

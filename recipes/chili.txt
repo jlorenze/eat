@@ -4,7 +4,7 @@ Yield: 8
 
 Time (hours): 0.5
 
-Keywords: soups-stews
+Keywords: soups-stews, american
 
 Recommended Sides: Sweet Cornbread, chili dogs, walking taco
 

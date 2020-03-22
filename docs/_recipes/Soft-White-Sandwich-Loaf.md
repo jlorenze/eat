@@ -8,7 +8,6 @@ pair:
 - green goddess tuna salad sandwich
 - french toast
 - grilled cheese
-- vegetable chowder
 ingredients:
 - 100% unbleached all-purpose flour (350g for one loaf)
 - 0.75% instant dried yeast (4g ~ 1 tsp)

@@ -6,7 +6,7 @@ Time (hours): 8
 
 Keywords: bread
 
-Recommended Sides: green goddess tuna salad sandwich, french toast, grilled cheese, vegetable chowder
+Recommended Sides: green goddess tuna salad sandwich, french toast, grilled cheese
 
 Ingredients:
 100% unbleached all-purpose flour (350g for one loaf)
@@ -16,7 +16,6 @@ Ingredients:
 6% dry milk (preferably nonfat)
 20% unsalted butter, softened
 2.3% salt
-
 
 Make:
 1. Make sponge by combining half of the flour and yeast with all of the water and honey, and whisk until smooth.
