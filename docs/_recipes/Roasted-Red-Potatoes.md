@@ -1,6 +1,6 @@
 ---
 layout: recipe
-yield: 
+yield: 4-6
 time: 1
 tags:
 - vegetables
