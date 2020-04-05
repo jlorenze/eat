@@ -3,7 +3,7 @@ baseurl: /eat
 
 # Site settings
 title: Eat
-description: "A simple, ad-free, no-nonsense recipe viewer."
+description: "A simple, ad-free, no-nonsense recipe repository."
 
 # Build settings
 markdown: kramdown
