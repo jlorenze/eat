@@ -27,4 +27,7 @@ ingredients:
 directions:
 - Prep all salad ingredients
 - Whisk dressing ingredients (yogurt - taco seasoning) together, add salt to taste
+methods:
+- []
+- []
 ---

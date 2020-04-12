@@ -24,4 +24,9 @@ directions:
 - Boil potatoes in 1 tbsp salt for 20-25 min
 - Bake sausages 18-20 min, until cooked through
 - Drain potatoes and return to pot, add butter, sour cream, mustards, 1 tsp salt, pepper and beat
+methods:
+- []
+- []
+- []
+- []
 ---

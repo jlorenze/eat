@@ -19,4 +19,8 @@ directions:
 - Preheat oven to 375F. Like baking sheet with foil, and spray with cooking spray
 - Place salmon fillets onto foil, sprinkle with basil, top with tomato. Drizzle with oil, sprinkle with cheese
 - Bake about 20 min, until salmon is done
+methods:
+- []
+- []
+- []
 ---

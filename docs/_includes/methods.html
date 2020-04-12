@@ -1,0 +1,36 @@
+<!-- Methods Section -->
+{% assign methods_by_letter = 
+    site.methods | group_by_exp: "method", "method.title | slice: 0, 1" %}
+
+<section id="methods" class="bg-light-gray">
+    <div class="container">
+        <div class="row">
+            <div class="col-lg-12 text-center">
+                <h2 class="section-heading">Methods</h2>
+            </div>
+        </div>
+        {% for letter in methods_by_letter %}
+            <div class="row text-center">
+                <div class="col-md-4 col-sm-4">
+                    <span class="fa-stack fa-lg">
+                        <i class="fa fa-square fa-stack-2x text-primary"></i>
+                        {% assign letter_uppercase = letter.name | upcase %}
+                        <strong class="fa-stack-1x text-white">{{letter_uppercase}}</strong>
+                    </span>
+                </div>
+                <div class="col-md-8 col-sm-8 text-left">
+                    {% for method in letter.items %}
+                        <div class="method-modal modal fade" id="{{method.tag}}" tabindex="-1" role="dialog" aria-hidden="true">
+                            <div class="modal-content"></div>
+                        </div>
+                        {% assign url = "/methods/" | prepend: site.baseurl | append: method.tag | append:".html" %}
+                        <a href="{{url}}" data-target="#{{method.tag}}" data-toggle="modal" class="recipe-text">
+                            {{method.title}}
+                        </a>
+                        <br>
+                    {% endfor %}
+                </div>
+            </div>
+        {% endfor %}
+    </div>
+</section>

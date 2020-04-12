@@ -32,4 +32,11 @@ directions:
 - Remove pork and shred
 - Remove bay leaves, drain half liquid
 - Add shredded pork back to crock pot
+methods:
+- []
+- []
+- []
+- []
+- []
+- []
 ---

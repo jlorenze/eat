@@ -24,4 +24,7 @@ ingredients:
 directions:
 - Mix dressing ingredients (lemon juice - olive oil)
 - Mix salad ingredients
+methods:
+- []
+- []
 ---

@@ -1,6 +1,7 @@
 import sys
 import pdb
 import os
+import yaml
 
 def load_recipe(filename):
     """ Loads the recipe txt file and parses it, outputs a dictionary
@@ -71,12 +72,32 @@ def load_recipe(filename):
         i += 1
 
     make = []
+    methods = []
+    method_tags = []
     i += 1
     while i < len(lines) and lines[i].lower() != '\n':
-        make_item = '.'.join(lines[i].strip().strip('.').split('.')[1:])
+        # Split string to look for method tags in <>
+        first_split = lines[i].strip().split('<')
+
+        # Parse out the actual line instruction
+        make_item = '.'.join(first_split[0].strip().strip('.').split('.')[1:])
         make.append(make_item.strip(' '))
+
+        # Now look for method tags
+        if len(first_split) > 1:
+            tags = first_split[1].strip('>').split(',')
+            tags = [tag.strip() for tag in tags]
+            methods.append(tags)
+            for tag in tags:
+                if tag not in method_tags:
+                    method_tags.append(tag) # running list of tags in recipe
+        else:
+            methods.append([]) # otherwise no tags
+
         i += 1
     recipe["make"] = make
+    recipe["methods"] = methods
+    recipe["method_tags"] = method_tags
 
     # Notes
     i = 1
@@ -141,6 +162,11 @@ def write_recipe_md(recipe, rec_dir):
             for instr in recipe["make"]:
                 file.write('- {}\n'.format(instr))
 
+            # Also write methods
+            file.write('methods:\n')
+            for method in recipe["methods"]:
+                file.write('- {}\n'.format(method))
+
         if recipe["notes"]:
             file.write('notes:\n')
             for note in recipe["notes"]:
@@ -183,3 +209,35 @@ def write_category_md(tag, cat_dir, img_dir):
 
     return needed
 
+
+def load_method(filename):
+    """ Using YAML file format to make things a lot easier. """
+    with open(filename) as file:
+        method = yaml.load(file)
+    return method
+
+
+def write_method_md(method, method_dir, img_dir):
+    name = ''.join([method['tag'], '.md'])
+    filename = os.path.join(method_dir, name)
+
+    print('Generating method {}'.format(name))
+
+    # Start writing file
+    with open(filename, 'w') as file:
+        file.write('---\n')
+        file.write('title: {}\n'.format(method['title']))
+        file.write('tag: {}\n'.format(method['tag']))
+        file.write('layout: method\n')
+        if "steps" in method.keys():
+            file.write('steps:\n')
+            for line in method["steps"]:
+                file.write('- {}\n'.format(line))
+        else:
+            print('Method {} has no steps.'.format(method['title']))
+
+        if "notes" in method.keys():
+            file.write('notes:\n')
+            for line in method["notes"]:
+                file.write('- {}\n'.format(line))
+        file.write('---\n')

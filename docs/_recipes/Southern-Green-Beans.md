@@ -18,4 +18,10 @@ directions:
 - Add broth and remaining salt, bring to simmer and add green beans
 - Cover and simmer 20 min or until beans are tender, remove from pot
 - Boil remaining liquid until reduced to 1/4 cup, drizzle over green beans
+methods:
+- []
+- []
+- []
+- []
+- []
 ---

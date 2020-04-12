@@ -26,4 +26,10 @@ directions:
 - Remove and place in covered bowl for 10 min to steam
 - Spray fingers with cooking spray to protect, remove skin, stem, and seeds
 - Combine ingredients, add salt to taste (maybe 1/2 to 1 tsp)
+methods:
+- []
+- []
+- []
+- []
+- []
 ---

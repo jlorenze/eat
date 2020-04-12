@@ -36,4 +36,10 @@ directions:
 - Add 6 cups broth
 - Add bay leaf and cook on low 6-8 hours
 - Cook noodles separately and add after
+methods:
+- []
+- []
+- []
+- []
+- []
 ---

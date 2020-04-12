@@ -12,4 +12,6 @@ ingredients:
 - raspberry vinaigrette
 directions:
 - Mix in good proportions
+methods:
+- []
 ---

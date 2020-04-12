@@ -29,6 +29,11 @@ directions:
 - Cook for 3-4 min until peppers and onions are softened. Remove from heat and stir in chopped cilantro
 - Over medium heat, add flour tortilla to clean skillet. Top with cheese, veggie mixture, and another layer of cheese. Cook until golden on both sides (~3 min per side)
 - Whisk together sour cream, minced cilantro, lime juice, and 1 tsp olive oil. Serve with quesadilla
+methods:
+- []
+- []
+- []
+- []
 notes:
 - Maybe try adding some extra lime juice to sour cream
 - Maybe try with red onion

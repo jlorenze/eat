@@ -19,4 +19,6 @@ ingredients:
 - sesame seeds
 directions:
 - Roll it up!
+methods:
+- []
 ---

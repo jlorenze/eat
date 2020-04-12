@@ -27,4 +27,11 @@ directions:
 - Cook meatballs over medium heat, add to sauce
 - Cook ground meat in skillet until browned
 - Add cooked meat to sauce, simmer until onions and peppers are soft
+methods:
+- []
+- []
+- []
+- []
+- []
+- []
 ---

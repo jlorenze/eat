@@ -22,6 +22,14 @@ directions:
 - Top with sauce, cheese, and basil. Slide pizza onto preheated stone and bake until cheese is melted and crust is golden
 - Remove from oven, transfer to wooden cutting board and drizzle with extra-virgin olive oil
 - Serve with sea salt and optional chile flakes
+methods:
+- []
+- []
+- []
+- []
+- []
+- []
+- []
 notes:
 - Pizza dough needs high heat transfer rate. This is best accomplished by baking on a preheated thermal mass such as baking stones, ceramic tiles, or cast-iron. A preheated sheet pan is better than nothing
 - Work the dough constantly and evenly to avoid spots becoming too thin and tearing. If the dough does tear, just patch it

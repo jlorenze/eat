@@ -28,4 +28,12 @@ directions:
 - Heat oil in 12 in. skillet over medium heat. Brown meatballs on all sides. (~ 10 min) Transfer to plate
 - Leave 2 tbsp fat, add cauliflower, broth, lemon zest and juice, and 1 tsp salt. Nestle meatballs in, cook over medium low, covered, for 12-15 minutes
 - Uncover and cook until rice is dry. (~ 3 min) Remove from heat and add remaining mint, dill, and salt and pepper to taste
+methods:
+- []
+- []
+- []
+- []
+- []
+- []
+- []
 ---

@@ -26,4 +26,8 @@ directions:
 - Place chickpeas in food processor with garlic, salt, cumin. Process 30 seconds. Add tahini, process more
 - Add lemon juice and 1/4 cup reserved bean liquid, process
 - Add olive oil, process
+methods:
+- []
+- []
+- []
 ---

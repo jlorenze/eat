@@ -20,4 +20,11 @@ directions:
 - Cover and cook, until cauliflower is tender. (~12 - 15 min)
 - Uncover and cook until rice is almost dry. (~3 min)
 - Stir in parsely and season with salt and pepper
+methods:
+- []
+- []
+- []
+- []
+- []
+- []
 ---

@@ -29,4 +29,12 @@ directions:
 - Adjust over rack to 6 in from broiler, line pan with foil
 - Heat reserved paste in microwave for 20 seconds, brush chicken with half of paste
 - Broil 15 min turning halfway through and applying remaining paste
+methods:
+- []
+- []
+- []
+- []
+- []
+- []
+- []
 ---

@@ -17,4 +17,10 @@ directions:
 - Leave 1 tbsp fat left, add onion and cook 5 min
 - Stir in 1 cup spinach at a time and cook until wilted. (~ 1 min)
 - Add egg mixture and bacon
+methods:
+- []
+- []
+- []
+- []
+- []
 ---

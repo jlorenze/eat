@@ -25,4 +25,11 @@ directions:
 - Microwave spinach in bowl with tight lid for 2 min
 - Add rice and spinach to bowl, top with fish
 - Add cilantro, scallions, lime juice, and some pepper to the sauce to season, then ladle over the fish
+methods:
+- []
+- []
+- []
+- []
+- []
+- []
 ---

@@ -33,4 +33,14 @@ directions:
 - Stir in zucchini, cover and cook on high for 30 min
 - Stir back in chicken
 - Top with tomatoes, avocado, radishes, cilantro, lime wedges
+methods:
+- []
+- []
+- []
+- []
+- []
+- []
+- []
+- []
+- []
 ---

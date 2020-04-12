@@ -18,4 +18,7 @@ ingredients:
 directions:
 - Place 1 tsp oil in pan and heat up, using paper towel wipe skillet
 - Pour 1/4 cup batter and tilt skillet to spread into thin layer, cook until bubbly and brown on edges. Then flip
+methods:
+- []
+- []
 ---

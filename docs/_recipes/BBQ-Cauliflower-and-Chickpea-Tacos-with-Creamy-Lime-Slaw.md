@@ -37,4 +37,10 @@ directions:
 - In medium bowl, mix slaw dressing ingredients into creamy sauce. Add cabbage mixture, mix. Refrigerate
 - Chop cauliflower, add along with chickpeas and drizzle with oil, sprinkle BBQ rub as needed. Toss to coat and add to sheetpan
 - Bake for 25 min, flipping once
+methods:
+- []
+- []
+- []
+- []
+- []
 ---

@@ -20,6 +20,12 @@ directions:
 - Heat butter in large nonstick skillet over medium heat until foamy (~3 min), skim off solids. Don't let the butter brown
 - Add potatoes and cook, undisturbed, about 5 minutes until deep golden crust forms on bottom. Flip and continue cooking until crisped and brown all over (~8 min)
 - Transfer to paper towels to drain, optionally season with salt
+methods:
+- []
+- []
+- []
+- []
+- []
 notes:
 - Can replace butter with ghee and skip clarifying process
 ---

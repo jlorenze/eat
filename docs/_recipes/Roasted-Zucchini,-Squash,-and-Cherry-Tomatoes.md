@@ -17,4 +17,8 @@ directions:
 - Toss veggies in olive oil and spice mix
 - Spread evenly on baking sheet
 - Broil until done. (~10 min)
+methods:
+- []
+- []
+- []
 ---

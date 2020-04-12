@@ -25,4 +25,10 @@ directions:
 - Mix in spinach and artichoke
 - Top with mozzarella
 - Bake 375 F for 20-30 min
+methods:
+- []
+- []
+- []
+- []
+- []
 ---

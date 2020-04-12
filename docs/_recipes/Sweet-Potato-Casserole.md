@@ -19,4 +19,11 @@ directions:
 - Add vanilla extract and mix
 - Move to baking dish, top with walnuts that have been tossed in remaining oil and sprinkled with cinnamon
 - Bake for 20 min
+methods:
+- []
+- []
+- []
+- []
+- []
+- []
 ---

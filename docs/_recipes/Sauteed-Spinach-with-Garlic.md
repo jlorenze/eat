@@ -15,4 +15,8 @@ directions:
 - Heat oil in large pot or pan over medium low heat. Saute garlic, but do not brown
 - Add spinach, salt, and pepper. Toss and cook until spinach is wilted
 - Top with butter before serving
+methods:
+- []
+- []
+- []
 ---

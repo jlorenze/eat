@@ -13,4 +13,8 @@ directions:
 - Cook bacon in large skillet. Reserve 1 tbsp bacon grease in pan
 - Add vegetables, cook until zucchini is crisp and tender. (~10 - 13 min)
 - Season with pepper, sprinkle with crumbled bacon
+methods:
+- []
+- []
+- []
 ---

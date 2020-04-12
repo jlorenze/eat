@@ -21,6 +21,10 @@ directions:
 - Melt butter over medium heat, add corn and cook for 10 min
 - Mix remaining ingredients and then add cooked corn
 - Serve warm or chilled
+methods:
+- []
+- []
+- []
 notes:
 - Can use more jalapeno, but cook alongside corn instead of adding it raw
 ---

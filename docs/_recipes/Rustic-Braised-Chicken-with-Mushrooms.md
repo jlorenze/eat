@@ -26,4 +26,11 @@ directions:
 - Stir in tomato paste, garlic, thyme, until fragrant. (~ 1 min) Stir in water, bring to a simmer
 - Nestle chicken into skillet, cook 10-15 min until chicken done
 - Add bacon bits, parsley, red wine vinegar
+methods:
+- []
+- []
+- []
+- []
+- []
+- []
 ---

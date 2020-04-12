@@ -26,4 +26,11 @@ directions:
 - Add peanut butter to juices in slow cooker, stir till smooth
 - Return meat to sauce and toss to coat
 - Serve and sprinkle with onions and peanuts
+methods:
+- []
+- []
+- []
+- []
+- []
+- []
 ---

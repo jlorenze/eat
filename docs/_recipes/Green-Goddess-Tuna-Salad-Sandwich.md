@@ -30,4 +30,10 @@ directions:
 - Season with salt and lots of pepper
 - Toss mixed herbs with a little lemon juice, oil, salt, and pepper
 - Build sandwich
+methods:
+- []
+- []
+- []
+- []
+- []
 ---

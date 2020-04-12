@@ -37,4 +37,17 @@ directions:
 - Brush mustard over dough, add layer of Gruyere (reserve 1/2 cup) and add 1/2 cup Parmesan
 - Place overlapping rows of tomatoes across the cheese, top with remaining strained herb mixture
 - Add remaining cheese to top, bake for 30 minutes
+methods:
+- []
+- []
+- []
+- []
+- []
+- []
+- []
+- []
+- []
+- []
+- []
+- []
 ---

@@ -24,4 +24,10 @@ directions:
 - Make burritos
 - Freeze burritos in single layer on greased sheet pan
 - After frozen, wrap individually in foil, store in freezer in ziplock bags
+methods:
+- []
+- []
+- []
+- []
+- []
 ---

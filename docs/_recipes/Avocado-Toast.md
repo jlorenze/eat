@@ -15,4 +15,8 @@ directions:
 - Heat pan to med, cook eggs over-easy to over-med
 - Make guac with avocado, salsa, garlic salt
 - Lightly toast bread
+methods:
+- []
+- []
+- []
 ---

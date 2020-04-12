@@ -17,4 +17,7 @@ ingredients:
 directions:
 - Mix all dry, mix all wet, combine
 - Bake 350 deg in coated 9x9 baking dish for 40 minutes
+methods:
+- []
+- []
 ---

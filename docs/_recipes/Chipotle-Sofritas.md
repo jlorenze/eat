@@ -26,4 +26,9 @@ directions:
 - Heat large, nonstick pan over med eat with 1 tbsp oil
 - Add tofu, corn, cook 10 min until tofu browns
 - Add sauce, cover, cook 5 min
+methods:
+- []
+- []
+- []
+- []
 ---

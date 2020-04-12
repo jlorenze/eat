@@ -27,4 +27,12 @@ directions:
 - Reserve 1 cup of pasta water, drain pasta and immediately add to skillet with the meat
 - Add the egg-cheese mixture and toss to coat and heat egg through. Add reserved pasta water for creaminess (probably about 1/4-1/2 cup)
 - Serve immediately, add parsley if desired
+methods:
+- []
+- []
+- []
+- []
+- []
+- []
+- []
 ---

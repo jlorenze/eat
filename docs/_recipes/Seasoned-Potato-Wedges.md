@@ -17,4 +17,8 @@ directions:
 - Preheat oven to 425F
 - Place seasoning, olive oil, and potatoes into plastic bag and shake
 - Bake in oven until potatoes are tender. (~ 25 min)
+methods:
+- []
+- []
+- []
 ---

@@ -31,6 +31,21 @@ directions:
 - Bake for 50 min or until medium golden brown, adding 1/2 cup ice cubes to cast-iron skillet at beginning
 - Halfway through, turn pans for even baking
 - Cool on wire rack, optionally glaze with melted butter
+methods:
+- []
+- []
+- []
+- []
+- []
+- []
+- []
+- []
+- []
+- []
+- []
+- []
+- []
+- []
 notes:
 - Can pre-ferment in fridge 8-24 hours with 1 hour at room-temp before and after
 - Maybe try without dry milk?

@@ -33,4 +33,13 @@ directions:
 - Stir in processed tomato mixture, red peppers, water, and bay leaves. Simmer and cook until sauce is thickened. (~ 10 min)
 - Discard bay leaves, add cilantro. Process 2 cups sauce until smooth and return to skillet. Bring back to simmer
 - Off heat, make 4 indentations. Crack 2 eggs into each and season with salt and pepper. Cover and cook over medium low heat until eggs are cooked to satisfaction
+methods:
+- []
+- []
+- []
+- []
+- []
+- []
+- []
+- []
 ---

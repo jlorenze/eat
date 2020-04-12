@@ -27,4 +27,9 @@ directions:
 - Combine dried zucchini, sweet potato, beaten eggs, 1 tbsp oil, scallions, cilantro, jalapeno, garlic, coriander, cumin, 1 tsp salt, and 1/4 tsp pepper in large bowl. Sprinkle flower over and stir to combine
 - Heat 3 tbsp oil in skillet over med low heat. Drop 1/3 cup portions of batter into skillet and press to flatten a little. Cook until golden brown and slightly crisp. (~ 4 min per side)
 - Drain on paper towel lined plate. Season with salt and pepper
+methods:
+- []
+- []
+- []
+- []
 ---

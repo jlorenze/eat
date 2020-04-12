@@ -22,4 +22,12 @@ directions:
 - Place vegetables in single layer on rimmed baking sheet with sprouts in center. Place chicken skin side up on veggies
 - Brush chicken with herb mixture and roast 35 to 40 min, rotating sheet halfway
 - Toss veggies in pan juices
+methods:
+- []
+- []
+- []
+- []
+- []
+- []
+- []
 ---

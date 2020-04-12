@@ -28,4 +28,12 @@ directions:
 - Add tomato sauce, sugar, and bring to boil. Reduce heat and simmer, stirring occasionally for 5 min
 - Nestle cutlets into sauce, top with 1/2 cup basil and cheeses. Transfer to oven
 - Broil until cheese is bubbling, 2-3 min. Top with remaining basil after cooling for a couple of minutes
+methods:
+- []
+- []
+- []
+- []
+- []
+- []
+- []
 ---

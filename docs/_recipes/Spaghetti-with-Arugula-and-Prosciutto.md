@@ -25,4 +25,9 @@ directions:
 - Add lemon juice and zest, butter, Parmesan, and 1/2 cup pasta water to pot and mix. Adding additional pasta water until creamy
 - Add red pepper flakes, prosciutto, arugula, and toss until arugula begins to wilt
 - Season with salt and pepper, garnish with extra Parmesan
+methods:
+- []
+- []
+- []
+- []
 ---

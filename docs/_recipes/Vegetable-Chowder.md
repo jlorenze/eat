@@ -26,4 +26,9 @@ directions:
 - Bring to boil, reduce heat to medium-low and simmer for 30 min or until veggies are tender
 - Remove 1-2 cups of soup and puree in blender
 - Add pureed back to pot along with dill. Season with salt
+methods:
+- []
+- []
+- []
+- []
 ---

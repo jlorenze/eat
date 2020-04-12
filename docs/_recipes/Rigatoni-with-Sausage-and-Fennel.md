@@ -34,4 +34,13 @@ directions:
 - Cook rigatoni in salted water
 - Drain pasta and add sauce, cook over low heat for 5 min to allow pasta to absorb sauce
 - Remove from heat and add parsley and Parmesan, reserving half to serve on the side
+methods:
+- []
+- []
+- []
+- []
+- []
+- []
+- []
+- []
 ---

@@ -12,4 +12,6 @@ ingredients:
 - pepper
 directions:
 - Bake 425 F for 12-15 minutes, until tender
+methods:
+- []
 ---

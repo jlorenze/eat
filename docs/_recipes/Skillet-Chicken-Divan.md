@@ -22,6 +22,12 @@ directions:
 - Stir in rice and broccoli, bring to boil
 - Place chicken on top, cover, cook on med-low for 10 min, or till chicken done
 - Sprinkle cheese on top, let sit for 5 min
+methods:
+- []
+- []
+- []
+- []
+- []
 notes:
 - 
 ---

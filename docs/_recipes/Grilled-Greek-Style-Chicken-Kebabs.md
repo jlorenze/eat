@@ -23,4 +23,10 @@ directions:
 - Microwave bell peppers and onion with 1 tbsp oil until just tender. (~3 min, toss half way)
 - Remove chicken from brine and pat dry, thread chicken with onion and bell pepper onto skewers. Grill
 - Push off skewer into large bowl with dressing, toss to coat
+methods:
+- []
+- []
+- []
+- []
+- []
 ---

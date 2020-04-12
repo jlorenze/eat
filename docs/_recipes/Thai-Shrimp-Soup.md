@@ -27,4 +27,12 @@ directions:
 - Whisk in curry paste 1 min. Gradually add in coconut milk and vegetable stock
 - Stir 1-2 min then bring to a boil and simmer 8-10 min to thicken slightly
 - Add in rice, shrimp, lime juice, cilantro
+methods:
+- []
+- []
+- []
+- []
+- []
+- []
+- []
 ---

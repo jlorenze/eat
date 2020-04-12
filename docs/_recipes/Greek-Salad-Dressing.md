@@ -24,4 +24,6 @@ ingredients:
 - 1 tsp lemon juice
 directions:
 - Mix, refrigerate
+methods:
+- []
 ---

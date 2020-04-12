@@ -24,4 +24,7 @@ ingredients:
 directions:
 - Combine tuna, sriracha, chili oil, rice vinegar, scallions, and mayonnaise
 - Roll it up!
+methods:
+- []
+- []
 ---

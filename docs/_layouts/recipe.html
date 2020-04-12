@@ -21,7 +21,26 @@ layout: default
             <h4 class="section-heading">Make</h4>
             <ol class="text-left"> 
                 {% for direction in page.directions %}
-                    <li class="ingredient"> {{ direction | markdownify }} </li>
+                    {% assign methods = page.methods[forloop.index0] %}
+                    <li class="ingredient"> 
+                        <div class="p"> {{direction}} <!-- Add the individual instruction -->
+                            {% for tag in methods %} <!-- Add any method tags afterward -->
+                                {% if tag %}
+                                    <div class="method-modal modal fade" id="{{tag}}" tabindex="-1" role="dialog" aria-hidden="true">
+                                        <div class="modal-content"></div>
+                                    </div>
+                                    {% assign url = "/methods/" | prepend: site.baseurl | append: tag | append:".html" %}
+                                    {% assign first_letter_caps = tag | slice: 0, 1 | upcase %}
+                                    <a href="{{url}}" data-target="#{{tag}}" data-toggle="modal">
+                                        <span class="fa-stack fa-sm">
+                                            <i class="fa fa-circle fa-stack-2x text-primary"></i>
+                                            <strong class="fa-stack-1x text-white">{{first_letter_caps}}</strong>
+                                        </span>
+                                    </a>
+                                {% endif %}
+                            {% endfor %}
+                        </div>
+                    </li>
                 {% endfor %}
             </ol>
             <br>
@@ -81,7 +100,7 @@ layout: default
             {% endif %}
 
             <!-- Add other foods that go well with this recipe -->
-            {% if page.pair %}
+            {% if page.pair %} <!-- only add if page.pair is not empty -->
                 <p class="text-left pair">
                     <span class="text-secondary"> PAIR | </span>
                     <!-- Painful process for sorting alphabetically -->

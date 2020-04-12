@@ -33,4 +33,9 @@ directions:
 - Cook low for 7 hours or high for 3.5 to 4 hours
 - Cook pasta, add to soup. Add spinach until warm and wilted
 - Dollop with cheese topping
+methods:
+- []
+- []
+- []
+- []
 ---

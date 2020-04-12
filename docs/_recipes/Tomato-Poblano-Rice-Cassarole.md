@@ -21,4 +21,11 @@ directions:
 - Meanwhile, heat oil in skillet, add onion and garlic. Cook 5 min. Add oregano, 1 tsp salt, chiles, tomatoes and juices, and simmer (5 min)
 - Grease 8x8 dish, make two layers of rice, chili-tomato mixture, and cheese
 - Bake at 350F for 20-30 min
+methods:
+- []
+- []
+- []
+- []
+- []
+- []
 ---

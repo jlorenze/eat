@@ -32,4 +32,10 @@ directions:
 - Cook until crisp-tender, remove from pan
 - Add bit of oil, add shrimp. Cook until shrimp are pink and done
 - Return veggies to pan to heat through
+methods:
+- []
+- []
+- []
+- []
+- []
 ---

@@ -20,11 +20,15 @@ directions:
 - Divide dough into 350g pieces (5 pieces per 1000g flour)
 - Shape dough into medium-tight balls and place on floured baking sheet
 - Lightly dust tops with flour and cover with plastic wrap, proof for 30-60 minutes. Then refrigerate for at least 30 minutes to make shaping easier
+methods:
+- []
+- ['autolyze']
+- ['fold-dough', 'cut-dough']
+- ['fold-dough']
+- []
+- ['shape-dough']
+- []
 notes:
-- Autolysis is the technique of hydrating the flour before adding yeast, which allows the flour to absorb the water and activates enzymes
-- To fold the dough, reach underneath, grab a quarter of the dough, and stretch gently to the point of resistance (avoid tearing). Then fold over the top to the other side, and repeat for the remaining three sides
-- To cut the dough, use thumb and index finger to slice through the dough in a pincer like movement several times
 - Wet your hands when mixing to keep dough from sticking. But re-wet sparingly to avoid excess water being added
-- To shape the dough, start by using the folding method to tighten and smooth the bottom side of the dough. Then flip over and move to a surface with no flour. Cup your hands around the back of the dough and pull towards you, letting your pinky fingers apply some pressure so the dough grips the surface instead of sliding, which will tighten the surface of the dough. Rotate the dough a quarter turn and repeat, going completely around two or three times
 - Be careful to not degas dough when shaping
 ---

@@ -29,4 +29,13 @@ directions:
 - Heat to low, cook covered 15 min till rice is done
 - Remove from heat and stir rice gently, rest 10 min covered
 - Add cilantro and lime juice, fluff
+methods:
+- []
+- []
+- []
+- []
+- []
+- []
+- []
+- []
 ---

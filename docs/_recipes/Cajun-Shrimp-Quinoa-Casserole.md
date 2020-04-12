@@ -27,4 +27,12 @@ directions:
 - Mix in quinoa, tomato paste, 1/2 tsp cajun seasoning, and tomato chunks. Top with shrimp and sprinkle with cheese
 - Bake at 350F for 15 min
 - Garnish with cilantro
+methods:
+- []
+- []
+- []
+- []
+- []
+- []
+- []
 ---

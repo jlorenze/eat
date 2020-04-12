@@ -19,4 +19,8 @@ directions:
 - Rinse rice until water runs clear. Cook via package instructions
 - Combine vinegar, oil, sugar, salt, heat for sugar to dissolve
 - Stir into cooked rice once cooled slightly
+methods:
+- []
+- []
+- []
 ---

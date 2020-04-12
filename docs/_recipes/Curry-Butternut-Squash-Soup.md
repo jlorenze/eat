@@ -20,6 +20,12 @@ directions:
 - Reduce heat and simmer until squash is tender (~15 min)
 - Stir in honey and puree until smooth
 - Season with salt as needed
+methods:
+- []
+- []
+- []
+- []
+- []
 notes:
 - Can add a bit of yogurt for garnish
 ---

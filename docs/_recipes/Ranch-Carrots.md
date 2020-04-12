@@ -12,4 +12,7 @@ ingredients:
 directions:
 - Boil or steam carrots
 - Stir in remaining ingredients
+methods:
+- []
+- []
 ---

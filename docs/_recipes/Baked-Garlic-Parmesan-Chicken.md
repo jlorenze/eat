@@ -22,4 +22,8 @@ directions:
 - Preheat oven to 350F. Grease 9x13 baking dish
 - Dip chicken breasts into oil mixture, then crumb mixture
 - Bake 30 minutes or until chicken is done
+methods:
+- []
+- []
+- []
 ---

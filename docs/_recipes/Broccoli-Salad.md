@@ -13,4 +13,6 @@ ingredients:
 - 1 cup mayo
 directions:
 - Combine
+methods:
+- []
 ---

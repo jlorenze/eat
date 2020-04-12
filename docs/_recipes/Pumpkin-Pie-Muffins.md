@@ -30,4 +30,12 @@ directions:
 - Pour batter into greased muffin pans, filling each cup about 2/3 full and tap pan on counter to remove air bubbles
 - Bake until toothpick comes out clean (~20 min)
 - Cool on a wire rack
+methods:
+- []
+- []
+- []
+- []
+- []
+- []
+- []
 ---

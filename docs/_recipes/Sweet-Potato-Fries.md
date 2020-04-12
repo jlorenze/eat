@@ -16,6 +16,11 @@ directions:
 - Toss potatoes with olive oil, garlic powder, paprika, and black pepper, spread out on two baking sheets
 - Bake until brown and crisp on bottom (~15 min), then flip and bake until other side is crisp (~10 min)
 - Season with salt
+methods:
+- []
+- []
+- []
+- []
 notes:
 - Definitely best fresh
 - Spacing is very important, otherwise they end up steaming and wont get crispy

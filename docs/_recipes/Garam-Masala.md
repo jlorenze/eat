@@ -14,4 +14,6 @@ ingredients:
 - 1/2 tsp ground nutmeg
 directions:
 - Mix
+methods:
+- []
 ---

@@ -18,4 +18,11 @@ directions:
 - Drain, dump back into pot, mash
 - Beat in butter and hot milk by 1/4 cup increments
 - Season with salt, pepper, and garlic if desired
+methods:
+- []
+- []
+- []
+- []
+- []
+- []
 ---

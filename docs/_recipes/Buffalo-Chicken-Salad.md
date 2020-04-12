@@ -26,4 +26,10 @@ directions:
 - Roughly chop and combine veggies
 - Roughly chop lettuce and combine with spinach
 - Top with desired amount of ranch dressing, extra buffalo sauce, and blue cheese
+methods:
+- []
+- []
+- []
+- []
+- []
 ---

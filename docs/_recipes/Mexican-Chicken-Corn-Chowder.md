@@ -22,4 +22,7 @@ ingredients:
 directions:
 - Melt butter in large pot and add chicken and onion, cook for 10 min. Near end add garlic
 - Stir in remaining ingredients, cook over low heat for 15 min
+methods:
+- []
+- []
 ---

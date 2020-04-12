@@ -42,4 +42,17 @@ directions:
 - Assemble: reserved tomato sauce first
 - Then noodles, ricotta, spinach, mozz, mushrooms sauce, fresh basil
 - Cover with foil and bake 25 min, remove foil, bake another 25 min
+methods:
+- []
+- []
+- []
+- []
+- []
+- []
+- []
+- []
+- []
+- []
+- []
+- []
 ---

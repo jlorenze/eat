@@ -23,4 +23,11 @@ directions:
 - Add tomatoes and bring to boil, reduce heat to medium-low and simmer for 5 min, until tomato juices thicken
 - Remove from heat and stir in parsley, dill, and shrimp, and season with salt and pepper
 - Sprinkle feta over the top and bake until shrimp are cooked through (~12 min)
+methods:
+- []
+- []
+- []
+- []
+- []
+- []
 ---

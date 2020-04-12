@@ -29,4 +29,9 @@ directions:
 - Whisk peanut butter, soy sauce, lime juice, chicken broth, cumin, and coriander. Pour over chicken
 - Cook on high for 4 hours or until chicken is done
 - Serve with scallions, cilantro, bean sprouts, and crushed peanuts
+methods:
+- []
+- []
+- []
+- []
 ---

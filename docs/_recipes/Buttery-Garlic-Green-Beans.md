@@ -14,4 +14,8 @@ directions:
 - Boil beans until soften (~5 min)
 - Drain water, add butter, cook 2-3 min
 - Add garlic under garlic is tender and fragrant (3-4 min)
+methods:
+- []
+- []
+- []
 ---

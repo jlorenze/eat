@@ -26,4 +26,12 @@ directions:
 - On lightly floured surface, roll dough to 3/16-inch thickness. Cut into shapes with cookie cutters. Place on ungreased cookie sheets
 - Bake for 7 to 12 minutes until set and very light golden on edges. Cool 1 minute and then remove from cookie sheets to cool completely
 - Then combine all frosting ingredients (powdered sugar - milk) and beat until smooth
+methods:
+- []
+- []
+- []
+- []
+- []
+- []
+- []
 ---

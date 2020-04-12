@@ -19,4 +19,9 @@ directions:
 - Combine feta and avocado, mash, add lemon juice, basil, salt and pepper to taste
 - Spread avocado feta mixture on hummus, top with roasted red peppers
 - Brush bread with olive oil or butter, place on a hot pan. Grill until toasted
+methods:
+- []
+- []
+- []
+- []
 ---

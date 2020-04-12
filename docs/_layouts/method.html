@@ -1,0 +1,50 @@
+<!-- This layout gets called in the method.md files in the _methods directory -->
+<!-- Reference attribute of the method using page.[] -->
+
+<!-- Add the X in the upper right corner for closing the modal -->
+<div class="close-modal" data-dismiss="modal">
+    <div class="lr">
+        <div class="rl">
+        </div>
+    </div>
+</div>
+
+<!-- Add a container to hold all of the content -->
+<div class="container">
+    <div class="row">
+        <div class="col-lg-8 col-lg-offset-2">
+            <div class="modal-body">
+                <h2 class="recipe-heading">{{ page.title }}</h2>
+                <hr class="star-primary">
+                {% if page.steps %}
+                    <div class="col-md-12 col-sm-12 text-center bg-light-gray recipe-ingredients p">
+                        <h4 class="section-heading">Instructions</h4>
+                        <ol class="text-left"> 
+                            {% for step in page.steps %}
+                            <div class="p">
+                            <li class="instruction-text"> 
+                                 {{ step }}  
+                            </li>
+                            </div>
+                            {% endfor %}
+                        </ol>
+                    </div>
+                {% endif %}
+                {% if page.notes %}
+                    <div class="col-md-12 col-sm-12 text-center p">
+                        <h4 class="section-heading">Notes</h4>
+                        <ul class="text-left"> 
+                            {% for note in page.notes %}
+                            <div class="p">
+                            <li class="instruction-text"> 
+                                 {{ note }}  
+                            </li>
+                            </div>
+                            {% endfor %}
+                        </ul>
+                    </div>
+                {% endif %}
+            </div>
+        </div>
+    </div>
+</div>

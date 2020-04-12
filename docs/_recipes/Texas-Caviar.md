@@ -21,4 +21,6 @@ ingredients:
 - 1/4 tsp pepper
 directions:
 - Mix and marinate overnight in fridge
+methods:
+- []
 ---

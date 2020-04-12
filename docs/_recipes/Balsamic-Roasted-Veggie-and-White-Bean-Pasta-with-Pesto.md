@@ -39,4 +39,12 @@ directions:
 - Make pesto by processing ingredients (basil - olive oil) and slowly adding oil
 - Combine pasta, 1/3 cup pesto, beans, veggies, and Parmesan. Drizzle with balsamic vinegar and top with red pepper flakes if desired
 - Serve hot or cold
+methods:
+- []
+- []
+- []
+- []
+- []
+- []
+- []
 ---

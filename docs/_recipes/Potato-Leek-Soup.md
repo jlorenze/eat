@@ -23,4 +23,9 @@ directions:
 - Add potatoes, stock, bay leaves, thyme, salt, pepper, bring to boil. Simmer 15 min until potatoes are very soft
 - Remove bay leaves and thyme sprig, puree
 - Add heavy cream and bring to simmer until desired thickness (or add water/broth to thin)
+methods:
+- []
+- []
+- []
+- []
 ---

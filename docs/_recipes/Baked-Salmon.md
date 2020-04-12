@@ -17,4 +17,8 @@ directions:
 - Coat salmon with olive oil, salt, and pepper
 - Bake 450 F for 12-15 min
 - Serve with lemon
+methods:
+- []
+- []
+- []
 ---

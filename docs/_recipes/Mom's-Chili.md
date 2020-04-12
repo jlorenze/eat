@@ -24,4 +24,7 @@ ingredients:
 directions:
 - Brown beef
 - Combine, simmer for a bit to cook onions
+methods:
+- []
+- []
 ---

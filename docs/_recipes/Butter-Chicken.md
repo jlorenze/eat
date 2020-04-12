@@ -31,4 +31,10 @@ directions:
 - Stir in curries and masalas, and tomato paste. Stir
 - Pour into slow cooker, add cardamom, milk, yogurt
 - Cook high 4-6 hours or low 6-8 hours
+methods:
+- []
+- []
+- []
+- []
+- []
 ---

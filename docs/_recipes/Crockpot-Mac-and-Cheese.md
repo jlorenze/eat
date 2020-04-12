@@ -21,4 +21,7 @@ ingredients:
 directions:
 - Combine macaroni, butter, cheeses, milks, spices in slow cooker
 - Cook on high until pasta is cooked (2-3 hrs)
+methods:
+- []
+- []
 ---

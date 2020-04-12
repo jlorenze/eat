@@ -28,4 +28,9 @@ directions:
 - Roughly mash beans, leaving some whole beans
 - Mix ingredients except oil, mash with hands and form patties
 - Heat oil in skillet, cook 2-3 min per side
+methods:
+- []
+- []
+- []
+- []
 ---

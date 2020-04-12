@@ -35,4 +35,17 @@ directions:
 - Add rest of onion mixture and tomato paste and cook over medium heat until begins to brown. Stir in processed tomatoes. Bring to simmer and cook till thickened. (~ 20 min)
 - Return meatballs and juices to skillet, reduce heat to med-low and simmer until meatballs cooked through. (~ 10 min)
 - Stir in remaining 2 tbsp basil
+methods:
+- []
+- []
+- []
+- []
+- []
+- []
+- []
+- []
+- []
+- []
+- []
+- []
 ---

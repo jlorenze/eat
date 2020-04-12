@@ -29,4 +29,13 @@ directions:
 - Stir in heavy cream and bring to low boil, stirring frequently
 - Add parsley, chicken, vegetables and simmer 3-4 min
 - Serve with Parmesan cheese
+methods:
+- []
+- []
+- []
+- []
+- []
+- []
+- []
+- []
 ---

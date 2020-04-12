@@ -25,4 +25,10 @@ directions:
 - Leave covered to rest for 30 min
 - Mix salt and lime juice until salt is dissolved
 - Add lime salt mixture and cilantro to rice, mix
+methods:
+- []
+- []
+- []
+- []
+- []
 ---

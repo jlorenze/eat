@@ -28,4 +28,12 @@ directions:
 - Transfer roast to carving board, tent loosely with aluminum foil and rest for 20 min
 - Discard bay leaves, skim excess fat from sauce. Stir in bacon and basil
 - Remove twine from roast, slice against grain into 1/2 in. slices
+methods:
+- []
+- []
+- []
+- []
+- []
+- []
+- []
 ---

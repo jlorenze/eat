@@ -21,4 +21,6 @@ ingredients:
 - salt
 directions:
 - Combine and season with salt, let sit 10 min at room temp
+methods:
+- []
 ---

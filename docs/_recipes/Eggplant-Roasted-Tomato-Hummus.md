@@ -27,4 +27,10 @@ directions:
 - Add lemon juice and 1/4 cup reserved bean liquid, process
 - Add olive oil, process
 - Add tomatoes and eggplant flesh, process
+methods:
+- []
+- []
+- []
+- []
+- []
 ---

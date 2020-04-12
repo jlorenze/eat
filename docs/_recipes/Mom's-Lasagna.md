@@ -32,6 +32,14 @@ directions:
 - Mix mozzarella and cottages cheese
 - Layer sauce, pasta, meat mixture, cheese mixture, repeat. Top with parmesan or asiago
 - Bake at 350F for 30-40 min
+methods:
+- []
+- []
+- []
+- []
+- []
+- []
+- []
 notes:
 - 
 ---

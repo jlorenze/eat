@@ -14,4 +14,10 @@ directions:
 - Add water and coconut milk, bring to simmer, reduce heat and cover
 - Cook for 12 to 15 minutes
 - Allow rice to rest for 5 minutes, fluff
+methods:
+- []
+- []
+- []
+- []
+- []
 ---

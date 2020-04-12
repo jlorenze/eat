@@ -33,6 +33,15 @@ directions:
 - Add cream and cilantro, simmer while stirring occasionally until thickened (~30-40 min)
 - Preheat broiler, line rimmed baking sheet with foil and set wire rack inside sheet. Broil chicken on single layer until black spots form (~10 min)
 - Cut chicken into bite-size pieces and add to sauce. Simmer, stirring occasionally, until chicken is cooked through (~8-10 min)
+methods:
+- []
+- []
+- []
+- []
+- []
+- []
+- []
+- []
 notes:
 - Maybe try adding more ghee for extra richness?
 ---

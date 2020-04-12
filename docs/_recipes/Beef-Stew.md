@@ -31,4 +31,11 @@ directions:
 - Stir in water and bring to simmer. Add potato, tomato, carrots, bay leaves, and browned beef. Cook over med-low heat until vegetables begin to get soft (~25 min)
 - Add red wine vinegar, finish cooking until potato and carrots are tender and meat is done
 - Discard bay leaves, blend or mash 1 cup of vegetables and add back into pot. Add parsely and salt and pepper to taste
+methods:
+- []
+- []
+- []
+- []
+- []
+- []
 ---

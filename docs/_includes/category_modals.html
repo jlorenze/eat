@@ -3,15 +3,19 @@
     site.recipes | group_by_exp: "recipe", "recipe.title | slice: 0, 1" %}
 
 {% for cat in site.categories %}
+    <!-- Loop through each category and build the modal, adding all recipes -->
     {% assign cat-lower = cat.title | downcase %}
     <div class="category-modal modal fade" id="{{ cat.title }}" tabindex="-1" role="dialog" aria-hidden="true">
         <div class="modal-content">
+            <!-- Add the X in the upper right corner for closing the modal -->
             <div class="close-modal" data-dismiss="modal">
                 <div class="lr">
                     <div class="rl">
                     </div>
                 </div>
             </div>
+
+            <!-- Add a container to hold all of the content -->
             <div class="container">
                 <div class="row">
                     <div class="col-lg-8 col-lg-offset-2">

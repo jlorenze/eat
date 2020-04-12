@@ -29,4 +29,12 @@ directions:
 - Place chicken and 1/2 cup marinade into plastic bag for 30 or overnight
 - If dark meat, cook on grill or cast iron skillet. Preheat pan, coat with 2 tbsp oil. Grill in batches 10-15 min until done
 - If white meat, bake at 400F on sprayed baking dish. Cover with parchment paper, tucking around chicken. Bake 30-40 min
+methods:
+- []
+- []
+- []
+- []
+- []
+- []
+- []
 ---

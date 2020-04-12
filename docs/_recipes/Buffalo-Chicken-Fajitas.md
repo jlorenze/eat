@@ -27,4 +27,10 @@ directions:
 - Add in mushrooms and continue to saute until tender
 - Add chicken and stir in buffalo sauce until heated through
 - Serve with cheese, sour cream, and cilantro
+methods:
+- []
+- []
+- []
+- []
+- []
 ---

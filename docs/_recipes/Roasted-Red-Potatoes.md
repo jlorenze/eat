@@ -15,4 +15,8 @@ directions:
 - Preheat to 400F
 - Toss potatoes with stuff
 - Roast 45 min to 1 hour, flip twice
+methods:
+- []
+- []
+- []
 ---

@@ -28,4 +28,10 @@ directions:
 - Add shallot and garlic to leftover grease, cook until softened. (~ 2 min)
 - Transfer to large bowl and let cool slightly, add oil, vinegar, mustard, cayenne, and 1/4 tsp salt
 - Pat chicken dry and cube. Add chicken, tomatoes, celery, basil, and crisp bacon to dressing and toss. Season with salt and pepper to taste
+methods:
+- []
+- []
+- []
+- []
+- []
 ---

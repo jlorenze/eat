@@ -26,4 +26,8 @@ directions:
 - Add all ingredients to bowl and mix well
 - Form turkey into patties
 - Place on greased pan and broil on high for 11-13 min, turning halfway
+methods:
+- []
+- []
+- []
 ---

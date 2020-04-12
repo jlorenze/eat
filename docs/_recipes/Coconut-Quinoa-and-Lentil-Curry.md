@@ -34,4 +34,12 @@ directions:
 - Stir in lentils and quinoa, reduce to simmer, cover and cook for 20-25 min or until lentils and quinoa done
 - Add spinach, cook uncovered for 5 min
 - Remove from heat. Add lemon juice + zest, cilantro and basil, lime juice + zest
+methods:
+- []
+- []
+- []
+- []
+- []
+- []
+- []
 ---

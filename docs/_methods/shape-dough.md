@@ -1,0 +1,11 @@
+---
+title: Shaping Dough
+tag: shape-dough
+layout: method
+steps:
+- Turn out the dough onto a lightly floured counter, leaving part of the counter unfloured.
+- Fold (see Folding Dough) to tighten and smooth the bottom of the dough.
+- Flip the dough over onto the unfloured surface.
+- Cup your hands around the back of the dough and pull towards you, letting your pinky fingers apply some pressure towards the bottom so the dough grips the surface instead of sliding.
+- Rotate the dough a quarter turn and repeat until the surface has tightened the desired amount.
+---
