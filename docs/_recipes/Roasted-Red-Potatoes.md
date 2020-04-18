@@ -19,4 +19,6 @@ methods:
 - []
 - []
 - []
+notes:
+- Also great topped with sour cream, cheese, and chives
 ---
