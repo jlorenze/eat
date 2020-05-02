@@ -56,5 +56,6 @@ notes:
 - The starter is called "tangzhong"
 - Letting the dough rest allows the flour to absorb the liquid
 - Avoid adding a bunch of extra flour during kneading
+- To reheat frozen rolls: thaw overnight in refrigerator, reheat in 350F oven for 10 min under aluminum foil tent
 - From King Arthur Flour
 ---
