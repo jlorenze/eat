@@ -6,13 +6,15 @@ tags:
 - crockpot
 - meat
 pair:
-- plantains
+- fried green plantain chips
 - coconut rice
 - beans
+- zucchini
 ingredients:
 - 8 scallions, chopped
 - 3 tbsp coconut oil
 - 1 habanero chile, stemmed, seeded
+- 1 inch piece ginger, peeled and sliced into thin rounds
 - 2 tbsp raisins
 - 2 tbsp minced fresh thyme or 2 tsp dried (not ground)
 - 3 garlic cloves, peeled and smashed
@@ -37,4 +39,6 @@ methods:
 - []
 - []
 - []
+notes:
+- Maybe simpler to use 2 lbs chicken thighs? Cooking for ~5 hours on low?
 ---
