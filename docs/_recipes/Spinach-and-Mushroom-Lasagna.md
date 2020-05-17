@@ -39,7 +39,7 @@ directions:
 - Simmer on low heat for 20 min
 - Prepare noodles per instructions on package
 - Preheat oven to 350F
-- Assemble: reserved tomato sauce first
+- Assemble, reserved tomato sauce first
 - Then noodles, ricotta, spinach, mozz, mushrooms sauce, fresh basil
 - Cover with foil and bake 25 min, remove foil, bake another 25 min
 methods:
