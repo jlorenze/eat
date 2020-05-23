@@ -4,11 +4,12 @@ Yield: 4
 
 Time (hours): 0.75
 
-Keywords: italian, pasta
+Keywords: italian, pasta, vegetarian
 
 Recommended Sides: salad
 
 Ingredients:
+1/2 lb whole wheat pasta
 1 tbsp balsamic vinegar
 1 tsp Dijon mustard
 2 cloves garlic, crushed
@@ -22,7 +23,6 @@ Ingredients:
 1 yellow squash, cut
 1 pint cherry tomatoes, halved
 1 red onion, cut into 1" pieces
-1/2 lb whole wheat pasta
 15 oz can cannellini beans, drained and rinsed
 1/4 cup freshly grated Parmesan
 red pepper flakes
@@ -37,7 +37,12 @@ Make:
 1. Preheat oven to 425F.
 2. In large pot of salted water, cook pasta.
 3. Whisk together balsamic dressing ingredients (balsamic vinegar - olive oil).
-4. Dress vegetables with mixture, roast on 2 sprayed sheet pans for 30 min, tossing halfway through.
+4. Dress vegetables with mixture, roast on 2 sprayed sheet pans for ~20 min, tossing halfway through.
 5. Make pesto by processing ingredients (basil - olive oil) and slowly adding oil.
-5. Combine pasta, 1/3 cup pesto, beans, veggies, and Parmesan. Drizzle with balsamic vinegar and top with red pepper flakes if desired.
+5. Combine pasta, 1/3 cup pesto, beans, roasted vegetables, and Parmesan. Drizzle with balsamic vinegar and top with red pepper flakes if desired.
 6. Serve hot or cold.
+
+Notes:
+1. Can also just use 1 lb pasta if desired. In this case also double the amount of pesto.
+2. Could also reserve a bit of pasta water to add at the end.
+3. Perhaps omit the onion, it is a bit much.

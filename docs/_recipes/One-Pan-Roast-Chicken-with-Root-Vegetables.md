@@ -16,7 +16,7 @@ ingredients:
 - 3.5 lbs bone in chicken pieces
 directions:
 - Heat oven to 475 degrees
-- Toss sprouts, celery root, carrots, shallots, 1 tbsp melted butter, garlic, 2 tsp thyme, honey, 1 tsp salt, 1/4 tsp pepper
+- Toss sprouts, carrots, shallots, 1 tbsp melted butter, garlic, 2 tsp thyme, honey, 1 tsp salt, 1/4 tsp pepper
 - Combine remaining 2 tbsp butter, 2 tsp thyme, 1/4 tsp salt, 1/8 tsp pepper
 - Pat chicken dry with towels, season with salt and pepper
 - Place vegetables in single layer on rimmed baking sheet with sprouts in center. Place chicken skin side up on veggies
