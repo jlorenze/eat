@@ -5,7 +5,7 @@ time:
 tags:
 - bread
 ingredients:
-- 100% white flour
+- 100% all-purpose flour
 - 78% water
 - 2.2% fine sea salt
 - 0.08% instant dried yeast (4g ~ 1 tsp)
@@ -25,4 +25,6 @@ methods:
 - []
 - []
 - []
+notes:
+- Can also replace some of the all-purpose flour with wheat flour for extra flavor, or for some bread flour for an extra chewy crumb
 ---
