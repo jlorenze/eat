@@ -6,14 +6,14 @@ tags:
 - appetizer
 - mexican
 ingredients:
-- shredded cooked chicken
+- 1/2 lb cooked chicken, shredded
 - tortilla chips
 - 4 roma tomatos, diced
 - 1/2 red onion, diced
 - 2 jalapenos, sliced
 - bbq sauce
-- 8 oz Monterrey Jack cheese
-- 8 oz Cheddar cheese
+- 8 oz Monterey Jack cheese
+- 8 oz cheddar cheese
 - sour cream
 - fresh cilantro
 directions:
