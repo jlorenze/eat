@@ -4,6 +4,7 @@ yield:
 time: 0.5
 tags:
 - mexican
+- appetizer
 pair:
 - chipotle carnitas
 - cilantro lime rice
