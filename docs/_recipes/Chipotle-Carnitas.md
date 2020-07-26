@@ -6,9 +6,9 @@ tags:
 - mexican
 - crockpot
 pair:
-- chipotle cilantro lime rice
-- chipotle corn salsa
-- chipotle tomato salsa
+- cilantro lime rice
+- corn salsa
+- pico de gallo
 - black beans
 - guacamole
 ingredients:

@@ -5,9 +5,9 @@ time: 0.5
 tags:
 - mexican
 pair:
-- chipotle cilantro lime rice
-- chipotle corn salsa
-- chipotle tomato salsa
+- cilantro lime rice
+- corn salsa
+- pico de gallo
 - black beans
 - guacamole
 ingredients:

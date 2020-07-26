@@ -6,10 +6,10 @@ tags:
 - mexican
 pair:
 - chipotle carnitas
-- chipotle cilantro lime rice
+- cilantro lime rice
 - chipotle grilled chicken
 - chipotle sofritas
-- chipotle tomato salsa
+- pico de gallo
 - black beans
 - guacamole
 ingredients:

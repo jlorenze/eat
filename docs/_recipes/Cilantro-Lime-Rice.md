@@ -6,10 +6,10 @@ tags:
 - mexican
 pair:
 - chipotle carnitas
-- chipotle corn salsa
+- corn salsa
 - chipotle grilled chicken
 - chipotle sofritas
-- chipotle tomato salsa
+- pico de gallo
 - black beans
 - guacamole
 ingredients:

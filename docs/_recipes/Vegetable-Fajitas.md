@@ -6,6 +6,7 @@ tags:
 - mexican
 - vegetarian
 pair:
+- taco seasoning
 - mexican street corn salad
 - chipotle cilantro lime rice
 - mexican rice
@@ -18,9 +19,7 @@ ingredients:
 - 2 jalapenos, sliced
 - 3 cloves garlic, sliced thin
 - 12-16 oz mushrooms, sliced
-- salt
-- pepper
-- chili powder
+- taco seasoning
 - 2 15oz cans black beans, drained
 - flour tortillas
 - fresh cilantro
@@ -29,10 +28,12 @@ ingredients:
 - sour cream
 directions:
 - Saute onions, peppers, and garlic over medium heat until beginning to soften
-- Add mushrooms and season with salt, pepper, and chili powder. Cook until mushrooms are softened and remaining vegetables have reached desired level of tenderness
+- Add mushrooms and season with desired amount of taco seasoning. Cook until mushrooms are softened and remaining vegetables have reached desired level of tenderness
 - Mix in black beans to heat through. Serve in tortillas with cilantro, cheese, salsa, and sour cream
 methods:
 - []
 - []
 - []
+notes:
+- Can also add shredded chicken for additional protein
 ---

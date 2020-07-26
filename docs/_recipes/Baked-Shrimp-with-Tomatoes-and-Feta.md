@@ -5,6 +5,9 @@ time: 0.5
 tags:
 - seafood
 - mediterranean
+pair:
+- rice
+- orzo
 ingredients:
 - 1 Tbsp olive oil
 - 1 onion, diced

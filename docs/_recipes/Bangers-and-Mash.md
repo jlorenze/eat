@@ -7,6 +7,7 @@ tags:
 pair:
 - peas
 - carrots
+- honey roasted carrots
 ingredients:
 - 8 large sausages
 - 2 lbs Yukon gold potatoes

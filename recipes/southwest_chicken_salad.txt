@@ -32,3 +32,6 @@ salt
 Make:
 1. Prep all salad ingredients.
 2. Whisk dressing ingredients (yogurt - taco seasoning) together, add salt to taste.
+
+Notes:
+1. Probably should double the dressing recipe.
