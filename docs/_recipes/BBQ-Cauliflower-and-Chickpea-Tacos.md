@@ -6,7 +6,7 @@ tags:
 - mexican
 - vegetarian
 pair:
-- 
+- creamy lime coleslaw
 ingredients:
 - 1 cauliflower
 - 1.25 cup cooked chickpeas
@@ -22,15 +22,6 @@ ingredients:
 - 1 tsp sugar
 - 1/2 tsp smoked paprika
 - 1/4 tsp black pepper
-- 1 14 oz bag coleslaw mix or 6-7 cups chopped cabbage and carrots
-- 1/2 cup mayonnaise
-- 1/2 tsp dijon mustard
-- 1/2 tsp maple syrup
-- 1.5 tsp apple cidar vinegar
-- 1/4 tsp salt
-- pinch black pepper
-- 1 tsp water
-- juice of 1 lime
 directions:
 - Preheat oven to 375 F
 - Mix BBQ rub ingredients (cumin-pepper)
@@ -43,4 +34,6 @@ methods:
 - []
 - []
 - []
+notes:
+- Great topped with Creamy Lime Coleslaw
 ---

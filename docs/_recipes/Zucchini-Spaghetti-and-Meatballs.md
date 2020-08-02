@@ -4,7 +4,6 @@ yield: 4
 time: 1.5
 tags:
 - italian
-- vegetables
 pair:
 - salad
 - bread

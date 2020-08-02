@@ -23,7 +23,7 @@ ingredients:
 - 1/2 tsp salt
 directions:
 - Brown beef
-- Combine, simmer for a bit to cook onions
+- Combine remaining ingredients, simmer for 30 minutes to cook onions
 methods:
 - []
 - []

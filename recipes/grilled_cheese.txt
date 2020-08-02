@@ -4,14 +4,14 @@ Yield: 1
 
 Time (hours): 0.25
 
-Keywords: sandwich, american
+Keywords: sandwich
 
 Recommended Sides: soups
 
 Ingredients:
 sliced bread (potato, whole grain, white)
 butter or margarine
-sliced cheese (cheddar, Colby, provolone, or Monterey Jack)
+sliced cheese (American, cheddar, Colby, provolone, or Monterey Jack)
 
 Make:
 1. Preheat skillet over medium heat.

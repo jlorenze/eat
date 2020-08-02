@@ -6,7 +6,7 @@ Yield: 4
 
 Time (hours): 1.5
 
-Keywords: italian, vegetables
+Keywords: italian
 
 Recommended Sides: salad, bread
 
