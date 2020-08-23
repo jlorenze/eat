@@ -14,21 +14,20 @@ pair:
 - black beans
 - guacamole
 ingredients:
-- 2 cans white or yellow sweet corn (low sodium)
-- 1/2 cup red onion, chopped (a little less)
+- 24 oz frozen white sweet corn
+- 1/2 cup red onion, finely chopped
 - 2 jalapeno peppers, stemmed, seeded, chopped
-- 1/4 cup roasted Poblano peppers, chopped (2 poblanos)
+- 1 roasted large Poblano pepper, chopped
 - 1/4 cup fresh cilantro, chopped
-- 1 tbsp fresh lemon juice
-- 1 tbsp fresh lime juice
+- 1 Tbsp fresh lemon juice
+- 1 Tbsp fresh lime juice
+- salt
 directions:
-- Set broiler high, line baking sheet with foil, place peppers, spray with cooking spray
-- Broil 6 min, flip, and broil 6 min
-- Remove and place in covered bowl for 10 min to steam
-- Spray fingers with cooking spray to protect, remove skin, stem, and seeds
-- Combine ingredients, add salt to taste (maybe 1/2 to 1 tsp)
+- Spray peppers with cooking spray and broil on high for 6 min, then flip and broil another 6 min
+- Place peppers in covered bowl for 10 min to steam
+- Spray fingers with cooking spray to protect, remove skin, stem, and seeds from peppers
+- Combine all ingredients, add salt to taste (maybe 1/2 to 1 tsp)
 methods:
-- []
 - []
 - []
 - []

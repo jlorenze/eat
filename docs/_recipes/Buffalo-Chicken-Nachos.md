@@ -17,10 +17,12 @@ ingredients:
 - scallions
 - sour cream
 directions:
+- Preheat oven to 350F
 - Toss chicken in mixture of melted butter and Frank's
 - Stack ingredients in two layers in cast iron skillet
 - Bake for 15 min, top with scallions and serve with sour cream
 methods:
+- []
 - []
 - []
 - []

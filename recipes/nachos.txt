@@ -1,0 +1,32 @@
+Nachos
+
+Yield: 2-6
+
+Time (hours): 0.5
+
+Keywords: mexican, appetizer
+
+Recommended Sides:
+
+Ingredients:
+tortilla chips
+Cheddar cheese
+Monterey Jack cheese
+Oaxaca cheese
+cooked seasoned ground beef
+pinto beans
+refried beans
+tomato
+red onion
+jalapenos
+cilantro
+sour cream
+guacamole
+
+Make:
+1. Preheat oven to 350F.
+3. Stack desired ingredients in layers in cast iron skillet.
+4. Bake for 15 min, top with cilantro and serve with sour cream and guacamole.
+
+Notes:
+1. Put cheese on first to protect chips from moisture.
