@@ -4,6 +4,7 @@ yield: 6
 time: 1.5
 tags:
 - mexican
+- meat
 pair:
 - cilantro lime rice
 - corn salsa

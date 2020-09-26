@@ -5,6 +5,7 @@ time: 10
 tags:
 - mexican
 - crockpot
+- meat
 pair:
 - cilantro lime rice
 - corn salsa
