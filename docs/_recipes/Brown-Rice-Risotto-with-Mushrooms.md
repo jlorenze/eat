@@ -1,0 +1,44 @@
+---
+layout: recipe
+yield: 6
+time: 1.5
+tags:
+- italian
+pair:
+- italian salad
+- bread
+ingredients:
+- 3 Tbsp olive oil
+- 1 small yellow onion, chopped
+- 2 cloves garlic, minced
+- 4 cups vegetable broth
+- 1.5 cups short-grain brown rice
+- 12-14 oz Cremini mushrooms, sliced
+- 1 cup Parmesan, freshly grated
+- 1/2 cup dry white wine (Sauvignon Blanc or Pinot Grigio)
+- 3 Tbsp unsalted butter
+- 1/2 tsp salt
+- black pepper
+- 4 sprigs fresh oregano
+directions:
+- With oven rack in middle, preheat oven to 375F
+- Heat 1 Tbsp olive oil in dutch oven (with lid) over medium heat until shimmering. Add onion and pinch of salt. Cook, stirring occasionally, for 10 minutes
+- Add garlic, cook for another 2-4 minutes until onions are well browned
+- Add broth and 1 cup water and bring to boil. Remove from heat and stir in rice
+- Cover pot and bake for 65 minutes
+- In last 20 minutes of baking time, cook mushrooms in 2 Tbsp olive oil with a pinch of salt until darker in color (~12 minutes)
+- Remove dutch oven and add Parmesan, wine, butter, salt, and a generous amount of pepper. Stir to combine until rice is thick and creamy
+- Add mushrooms and stir to combine, and season with oregano
+methods:
+- []
+- []
+- []
+- []
+- []
+- []
+- []
+- []
+notes:
+- If no dutch oven exists, get a dutch oven
+- If you don't want to get a dutch oven, transfer rice to a casserole dish before baking and cover with lid or tightly cover with aluminum foil
+---

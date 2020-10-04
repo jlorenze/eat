@@ -213,7 +213,7 @@ def write_category_md(tag, cat_dir, img_dir):
 def load_method(filename):
     """ Using YAML file format to make things a lot easier. """
     with open(filename) as file:
-        method = yaml.load(file)
+        method = yaml.load(file, Loader=yaml.FullLoader)
     return method
 
 

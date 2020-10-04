@@ -10,8 +10,7 @@ pair:
 ingredients:
 - 2 cups watermelon, cubed
 - 1/4 cup strawberries, halved
-- 2 Tbsp lemon juice
-- 1/4 cup sugar
+- 3 Tbsp lemon juice
 - 1/2 cup water
 directions:
 - Combine ingredients in blender and blend until smooth
