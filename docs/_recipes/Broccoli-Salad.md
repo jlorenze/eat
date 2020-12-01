@@ -1,18 +1,24 @@
 ---
 layout: recipe
-yield: 
-time: 
+yield: 10
+time: 0.25
+tags:
+- salad
 ingredients:
-- bunch broccoli, chopped
+- broccoli, chopped
 - 1 cup shredded colby cheese
 - 2 hard boiled eggs, chopped
 - 6 strips bacon, crumbled
-- red onion to taste, chopped
+- red onion
 - 1/2 cup sugar
-- 1/2 tbsp vinegar
-- 1 cup mayo
+- 1/2 Tbsp vinegar
+- 1 cup mayonnaise
 directions:
-- Combine
+- Mix together mayonnaise, sugar, and vinegar
+- Mix everything together
 methods:
 - []
+- []
+notes:
+- A classic Thanksgiving dish, also great for cookouts
 ---

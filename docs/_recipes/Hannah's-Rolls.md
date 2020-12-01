@@ -17,9 +17,9 @@ directions:
 - Add salt and remaining sugar. Add oil, then mix in three cups of flour
 - Mix in one egg, then add flour one cup at a time until dough pulls away from sides of bown. (Should be approx three more cups)
 - Cover and refrigerate overnight. Or on counter for 2 hours until doubled
-- Two hours before baking, punch down dough and form into rolls
+- Two hours before baking, divide and form dough into rolls
 - Let dough rise for 2 hours
-- Bake at 350F for 15 min until golden
+- Bake at 350F for 20-25 min until golden
 - Lightly butter tops to prevent hardening
 methods:
 - []
