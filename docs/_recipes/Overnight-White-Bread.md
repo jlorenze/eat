@@ -18,11 +18,11 @@ directions:
 - Lightly dust tops with flour and cover with towel or lid, proof until ready to bake (~1.5 hours), check using finger-dent test
 - Place dutch oven in oven and preheat to 475F 45 min prior to baking. Bake 30 min with lid on and then 15 min with lid off (to desired crust color). Bake loaf seam side up
 methods:
+- ['autolyze']
+- ['fold-dough', 'cut-dough']
+- ['fold-dough']
 - []
-- []
-- []
-- []
-- []
+- ['shape-dough']
 - []
 - []
 notes:

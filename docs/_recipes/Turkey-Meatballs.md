@@ -7,8 +7,8 @@ tags:
 - meat
 - 
 pair:
-- yogurt sauce
-- pita bread
+- tzatziki
+- pita
 - cucumber avocado salad
 ingredients:
 - 1 large egg
@@ -26,7 +26,7 @@ directions:
 - Add turkey and gently mix. Shape into 16 (~1 inch) meatballs
 - Heat oil in large skillet over medium heat
 - Add meatballs in a single layer and cook until golden brown (~2 min). Flip and repeat, until cooked through
-- Serve with yogurt sauce
+- Serve with tzatziki!
 methods:
 - []
 - []

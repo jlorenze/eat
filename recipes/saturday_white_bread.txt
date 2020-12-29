@@ -15,10 +15,10 @@ Ingredients:
 0.4% instant dried yeast (4g ~ 1 tsp)
 
 Make:
-1. Autolyse, combining 1000g (for 2 loafs) flour and water at 90-95F and mixing. Then cover and let rest for 20-30 minutes.
-2. Sprinkle salt and yeast evenly over dough. Mix by folding and cutting. Let rest for a couple minutes, then fold until dough tightens.
-3. Cover and let dough rise until triple in volume (~5 hours), applying two folds during first 1.5 hours.
+1. Autolyse, combining 1000g (for 2 loafs) flour and water at 90-95F and mixing. Then cover and let rest for 20-30 minutes. <autolyze>
+2. Sprinkle salt and yeast evenly over dough. Mix by folding and cutting. Let rest for a couple minutes, then fold until dough tightens. <fold-dough, cut-dough>
+3. Cover and let dough rise until triple in volume (~5 hours), applying two folds during first 1.5 hours. <fold-dough>
 4. If needed, divide dough.
-5. Dust proofing baskets with flour, shape dough into medium-tight balls and place seam side down in baskets.
+5. Dust proofing baskets with flour, shape dough into medium-tight balls and place seam side down in baskets. <shape-dough>
 6. Lightly dust tops with flour and cover with towel or lid, proof until ready to bake (~1.5 hours), check using finger-dent test.
 7. Place dutch oven in oven and preheat to 475F 45 min prior to baking. Bake 30 min with lid on and then 15 min with lid off (to desired crust color). Bake loaf seam side up.
