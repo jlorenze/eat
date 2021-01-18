@@ -6,6 +6,7 @@ tags:
 - sandwich
 pair:
 - soups
+- tomato soup
 ingredients:
 - sliced bread (potato, whole grain, white)
 - butter or margarine
