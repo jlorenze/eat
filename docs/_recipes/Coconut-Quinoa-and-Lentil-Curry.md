@@ -17,7 +17,7 @@ ingredients:
 - 1 tbsp curry powder
 - 14 oz can full fat coconut milk
 - 4 cups vegetable broth
-- 1 tbsp fish sauce or soy sauce
+- 1 Tbsp fish sauce or soy sauce
 - 1 cup green lentils, rinsed
 - 1 cup mixed red and white quinoa
 - 4 big handfuls of spinach
@@ -26,15 +26,18 @@ ingredients:
 - 1/4 cup fresh basil, chopped
 - 1 lime, zest + juice
 - greek yogurt
+- salt
 directions:
 - Heat coconut oil in large heavy bottomed pot over medium heat. Add red pepper and carrots, cook 2-3 min
 - Add garlic and ginger, cook 30 sec
 - Add Thai red curry paste, curry powder, cook 1 min
-- Pour in coconut milk, borth, fish sauce. Stir, bring to boil
+- Pour in coconut milk, broth, fish sauce. Stir, bring to boil
 - Stir in lentils and quinoa, reduce to simmer, cover and cook for 20-25 min or until lentils and quinoa done
 - Add spinach, cook uncovered for 5 min
 - Remove from heat. Add lemon juice + zest, cilantro and basil, lime juice + zest
+- Salt to taste
 methods:
+- []
 - []
 - []
 - []
