@@ -1,0 +1,38 @@
+---
+layout: recipe
+yield: 6
+time: 1
+tags:
+- mediterranean
+- soups-stews
+- vegetarian
+pair:
+- fresh bread
+ingredients:
+- 5 Tbsp extra-virgin olive oil
+- 1 onion, chopped fine
+- 2 tsp dried oregano
+- 4 garlic cloves, minced
+- 1.5 cups water
+- 1.5 lbs greenbeans, trimmed and cut into 2-inch pieces
+- 1 lb Yukon gold potatoes, peeled and cut into 1-inch pieces
+- 1/2 tsp baking soda
+- 15 oz can diced tomatoes, drained with juice reserved, chopped
+- 1 Tbsp tomato paste
+- salt
+- pepper
+- 3 Tbsp chopped fresh basil
+- lemon juice
+directions:
+- Heat 3 Tbsp oil over medium heat. Add onion and cook until softened (~5 min). Stir in oregano and garlic and cook until fragrant
+- Stir in water, green beans, potatoes, and baking soda. Bring to a simmer and cook for 10 min, stirring occasionally
+- Stir in tomatoes and their juice, tomato paste, 2 tsp salt, and 1/4 tsp pepper. Cover and simmer until sauce has thickened and green beans can be easily cut (~40 min)
+- Stir in basil and season to taste with salt, pepper, and lemon juice
+- Serve drizzled with remaining 2 Tbsp of olive oil
+methods:
+- []
+- []
+- []
+- []
+- []
+---
