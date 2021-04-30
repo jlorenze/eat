@@ -8,7 +8,7 @@ tags:
 pair:
 - taco seasoning
 - mexican street corn salad
-- chipotle cilantro lime rice
+- cilantro lime rice
 - mexican rice
 - tomato poblano rice cassarole
 ingredients:

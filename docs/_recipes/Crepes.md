@@ -1,0 +1,39 @@
+---
+layout: recipe
+yield: 10
+time: 1.25
+tags:
+- breakfast
+- bread
+pair:
+- nutella
+- bananas
+- fresh berries
+- lemon curd
+- whipped cream
+ingredients:
+- 5-6 Tbsp unsalted butter
+- 125g (1 cup) all-purpose flour
+- 1 Tbsp granulated sugar
+- 1/8 tsp salt
+- 3/4 cup whole milk, room temperature
+- 1/2 cup water, room temperature
+- 2 large eggs, room temperature
+- 1.5 tsp pure vanilla extract
+directions:
+- Melt 3 Tbsp butter, let cool for ~5 min
+- Combine cooled melted butter, flour, sugar, salt, milk, water, eggs, and vanilla. Mix in blender for 20-30 seconds or whisk by hand until silky smooth cream texture. Cover mixture and chill in refrigerator for 30-60 min
+- Heat non-stick skillet over medium heat, grease with a bit of remaining butter between each crepe
+- Pour 3-4 Tbsp of batter into center, tilt/twirl to spread into thin layer. Cook 1-2 min until bottom is set. Flip and cook an additional 30 seconds. Transfer to plate
+- Fill crepes!
+methods:
+- []
+- []
+- []
+- []
+- []
+notes:
+- Can keep the batter in the refrigerator for up to 1 day before using
+- The thinner the crepe, the better
+- Leftover crepes can be stored in airtight container in refrigerator for 1 day
+---
