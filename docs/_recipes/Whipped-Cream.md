@@ -15,5 +15,5 @@ methods:
 - []
 - []
 notes:
-- Fun fact: "medium peaks" is a consistency somewhere in between "soft peaks" and "stiff peaks"
+- Fun fact: medium peaks is a consistency somewhere in between soft peaks and stiff peaks
 ---
