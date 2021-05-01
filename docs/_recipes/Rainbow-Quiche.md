@@ -21,9 +21,9 @@ ingredients:
 directions:
 - Preheat oven to 425F
 - Put pie crust in a 9 in. deep-dish pie pan and trim and flute the edge. Refrigerate until needed
-- Saute onion, mushrooms, broccoli, and peppers until mushrooms are lightly browned (6-8 min). Cool slightly
+- Melt butter over med-high heat. Saute onion, mushrooms, broccoli, and peppers until mushrooms are lightly browned (6-8 min). Cool slightly
 - Whisk together eggs, cream, salt, and pepper
-- Sprinkle 1/2 of the cheese over the crust, add all vegetables, and then top with remaining cheese. Pour in egg mixture
+- Sprinkle 1/2 of the cheese over the crust, add sauteed vegetables and spinach, and then top with remaining cheese. Pour in egg mixture
 - Bake on low rack for 15 min to get crust heated well, then reduce heat to 350F and bake until knife comes out clean (25-30 min)
 - Let cool and set for 10 minutes before serving
 methods:
