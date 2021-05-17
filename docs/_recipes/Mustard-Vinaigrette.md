@@ -1,6 +1,6 @@
 ---
 layout: recipe
-yield: 1 cup
+yield: 8
 time: 0.1
 tags:
 - sauces-dressings
