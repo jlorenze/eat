@@ -3,8 +3,7 @@ layout: recipe
 yield: 4
 time: .75
 tags:
-- italian
-- sauces
+- sauces-dressings
 ingredients:
 - 2 28 oz cans whole peeled tomatoes
 - 3 Tbsp extra-virgin olive oil

@@ -3,7 +3,7 @@ layout: recipe
 yield: 8
 time: 0.1
 tags:
-- sauces
+- sauces-dressings
 pair:
 - crispy pork carnitas
 ingredients:

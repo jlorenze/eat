@@ -3,7 +3,7 @@ layout: recipe
 yield: 6
 time: 0.25
 tags:
-- sauces
+- sauces-dressings
 pair:
 - pita
 - turkey meatballs
