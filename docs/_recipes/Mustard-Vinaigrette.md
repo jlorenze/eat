@@ -3,7 +3,8 @@ layout: recipe
 yield: 8
 time: 0.1
 tags:
-- sauces-dressings
+- sauces-toppings
+- salad
 pair:
 - apple gorgonzola salad
 ingredients:

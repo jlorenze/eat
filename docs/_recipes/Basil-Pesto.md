@@ -3,7 +3,7 @@ layout: recipe
 yield: 1
 time: 
 tags:
-- sauces-dressings
+- sauces-toppings
 pair:
 - pasta
 - pizza

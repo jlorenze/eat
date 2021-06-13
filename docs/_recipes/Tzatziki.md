@@ -3,7 +3,8 @@ layout: recipe
 yield: 6
 time: 0.25
 tags:
-- sauces-dressings
+- sauces-toppings
+- mediterranean
 pair:
 - pita
 - turkey meatballs

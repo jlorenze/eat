@@ -3,7 +3,7 @@ layout: recipe
 yield: 
 time: 0.25
 tags:
-- sauces-dressings
+- sauces-toppings
 - dessert
 ingredients:
 - 4 large egg yolks
