@@ -5,28 +5,31 @@ time: 16
 tags:
 - bread
 ingredients:
-- 354g (100%, 3 cups) unbleached all-purpose flour
-- 284g (80%, 1.25 cups) water
-- 6g (1.7%, 1.25 tsp) salt
-- 2g (0.5%, 1/2 + 1/16 tsp) instant dried yeast
-- 1 tsp sugar
-- 1 Tbsp nonfat dry milk
-- 25g (7%, 2 Tbsp) olive oil
+- 550g (100%) bread flour
+- 440g (80%) room temperature water
+- 11g (2%, 2 tsp) salt
+- 2g (0.5%, 1/2 + 1/4 tsp) instant dried yeast
 directions:
-- Mix 177g (1.5 cups) flour, 227g (1 cup) cool water, and 1/16 tsp yeast until will combined. Cover and ferment at room temperature overnight until very active
-- In mixer bowl, combine starter with remaining 1/2 tsp yeast, 177g (1.5 cups) flour, salt, sugar, dry milk, 57g (1/4 cup) lukewarm water, and olive oil
-- Beat at medium speed using the flat beater for 7 minutes, until dough is very smooth and elastic
-- Transfer dough to a greased container. Cover and let rise for 2-3 hours, deflating midway through
-- Turn out dough onto a greased surface, being careful not to deflate the dough
-- Divide the dough in half to have two pieces about 10x4 inches
-- Transfer to a greased baking sheet, and heavily dust with flour
-- Lightly cover the loaves with plastic wrap, let rise for 1-2 hours. Midway through, dimple the loaves
-- Spritz the dough with lukewarm water and bake at 425F until golden brown (~18-20 minutes)
+- Mix 200g flour, 200g water, and 1/4 tsp yeast until will combined. Cover and ferment at room temperature for 12-18 hours
+- In mixer bowl, combine starter with remaining 350g flour, 240g water, 1/2 tsp yeast, and 2 tsp salt
+- Using paddle attachment, mix on low until flour is moistened and then at medium-low speed until the dough forms a mass and pulls away from the sides of the bowl (~6 min)
+- Switch to dough hook and mix on med-low until dough is smooth and shiny (~10 min)
+- Transfer dough to a greased container. Cover and let rise for 1 hour
+- Gently fold once per quarter-turn, gently flip dough, then let rest 45 minutes. Repeat two more times
+- Preheat oven to 450F for one hour with cast-iron skillet on bottom rack and baking stone/baking sheet on low-middle rack
+- Turn out dough onto a floured surface and liberally dust the top with flour, being careful not to deflate the dough!
+- Shape the dough into a square using bench scrapers, cut in half, and then transfer gently to a floured parchment paper place on another baking sheet or cutting board (for transport)
+- Lightly dimple each loaf and gently shape as desired, then cover and proof for 30 minutes until puffy
+- Spritz the dough with lukewarm water and slide parchment paper onto baking stone/sheet. Drop a cup of ice into the cast-iron pan and quickly close oven door
+- Bake until deep golden brown (~20-25 minutes)
 - Cool on wire rack
 methods:
 - []
 - []
-- ['hand-mix-wet-dough']
+- []
+- []
+- []
+- []
 - []
 - []
 - []
@@ -35,6 +38,5 @@ methods:
 - []
 - []
 notes:
-- This dough has very high hydration, and is therefore easiest to make using a mixer
-- If mixing by hand, it is okay to slightly increase the amount of flour (no more than 25g)
+- This dough has very high hydration, and is therefore easiest to make using a mixer. It should have a thick batter consistency after mixing
 ---

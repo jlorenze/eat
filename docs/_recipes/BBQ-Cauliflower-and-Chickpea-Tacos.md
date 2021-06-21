@@ -25,11 +25,9 @@ ingredients:
 directions:
 - Preheat oven to 375 F
 - Mix BBQ rub ingredients (cumin-pepper)
-- In medium bowl, mix slaw dressing ingredients. Add cabbage mixture, mix. Refrigerate
 - Chop cauliflower, add along with chickpeas and drizzle with oil, sprinkle BBQ rub as needed. Toss to coat and add to sheetpan
 - Bake for 25 min, flipping once
 methods:
-- []
 - []
 - []
 - []
