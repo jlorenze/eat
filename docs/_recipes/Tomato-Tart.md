@@ -15,14 +15,14 @@ ingredients:
 - 2 cold extra-large egg yolks
 - 1/2 cup ice water
 - 2.5 lbs firm medium tomatoes, cored and sliced
-- 1 cup parsley, lightly packed
-- 1/2 cup basil, coarsely chopped
+- 1 cup lightly packed fresh parsley, chopped
+- 1/2 cup basil, chopped
 - 3 cloves garlic
-- 1 Tbsp thyme
+- 1 Tbsp fresh thyme
 - pepper
 - 1/2 cup olive oil
 - 6 Tbsp Dijon mustard
-- 3/4 lb Gruyere cheese, grated
+- 1/2 lb Gruyere cheese, grated
 - 1/2 cup Parmesan cheese, grated
 directions:
 - Add flour and 1 tsp salt to food processor, add butter and pulse until butter is the size of peas

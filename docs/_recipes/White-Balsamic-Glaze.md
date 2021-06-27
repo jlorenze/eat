@@ -3,9 +3,9 @@ layout: recipe
 yield: 2
 time: 0.25
 tags:
-- 
+- sauces-toppings
 ingredients:
-- 1/2 white balsamic vinegar
+- 1/2 cup white balsamic vinegar
 - 1 tsp honey
 directions:
 - Whisk vinegar and honey in small sauce pot and bring to simmer over medium-high heat
