@@ -5,7 +5,7 @@ time: 6
 tags:
 - indian
 pair:
-- steamed basmati rice
+- basmati rice
 ingredients:
 - 6 garlic cloves, finely grated
 - 4 tsp finely grated peeled ginger
@@ -16,7 +16,7 @@ ingredients:
 - 1.5 cups whole-milk yogurt (not Greek)
 - 1 Tbsp kosher salt
 - 2 lb skinless, boneless chicken breasts, halved lengthwise
-- 3 Tbsp ghee
+- 4 Tbsp ghee
 - 1 small onion, thinly sliced
 - 1/4 cup tomato paste
 - 6 cardamom pods, crushed
@@ -42,6 +42,4 @@ methods:
 - []
 - []
 - []
-notes:
-- Maybe try adding more ghee for extra richness?
 ---

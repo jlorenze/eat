@@ -1,0 +1,45 @@
+---
+layout: recipe
+yield: 4
+time: 1
+tags:
+- mexican
+- vegetarian
+ingredients:
+- 4 large red bell peppers, halved, seeds removed
+- 1 Tbsp olive oil
+- salt
+- pepper
+- 1/2 cup long-grain brown rice
+- 2 Tbsp olive oil
+- 1 large yellow onion, chopped
+- 1/2 tsp salt
+- 1 pint cherry tomatoes, halved or quartered
+- 1/2 cup chopped fresh cilantro
+- 4 cloves garlic, minced
+- 1.5 tsp chili powder
+- 1 tsp ground cumin
+- 1.5 cups cooked pinto beans, rinsed and drained
+- 1 Tbsp lime juice
+- 4 oz cheddar cheese, grated
+- fresh cilantro
+- guacamole
+- sour cream
+- salsa
+directions:
+- Preheat oven to 425F. Place peppers in 9x13 inch baking dish, with 1 Tbsp oil drizzled over top and season with salt and pepper. Use hands to rub oil over the entire pepper, and place cut sides up. Roast 20-25 minutes, until beginning to blister around edges and tender. Set aside, but leave oven on
+- Rinse rice until water runs clear and cook in large pot of boiling water, uncovered, for 30 minutes. Drain remaining water and set aside
+- Heat 2 Tbsp oil until shimmering in large skillet over medium heat. Add onion and salt and cook until tender (~5 min). Add tomatoes and cook 5 minutes
+- Add cilantro, garlic, chili powder, and cumin, cook until fragrant
+- Remove from heat, add rice, beans, lime juice and salt and black pepper to taste
+- Pour off excess juice from roasted peppers, then stuff with rice mixture and top with cheese
+- Bake at 425F for 12-13 minutes. Serve with fresh cilantro, guacamole, sour cream, and salsa
+methods:
+- []
+- []
+- []
+- []
+- []
+- []
+- []
+---
