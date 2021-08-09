@@ -47,6 +47,6 @@ methods:
 - []
 notes:
 - Mandarin pancakes take a while to make, so can substitute tortillas instead
-- "Light" soy sauce is the more common type, e.g. Lee Kum Kee Premium Soy Sauce
+- Light soy sauce is the more common type, e.g. Lee Kum Kee Premium Soy Sauce
 - Shiitake mushrooms should be soaked in warm water for ~30 minutes and then gently squeezed to remove excess water
 ---
