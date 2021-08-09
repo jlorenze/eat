@@ -6,7 +6,7 @@ tags:
 - asian
 - bread
 pair:
-- mu shoo chicken
+- moo shu chicken
 ingredients:
 - 1.5 cups all-purpose flour
 - 1/8 tsp salt
