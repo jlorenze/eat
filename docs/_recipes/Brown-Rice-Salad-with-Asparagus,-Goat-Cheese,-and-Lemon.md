@@ -5,6 +5,7 @@ time: 1
 tags:
 - mediterranean
 - salad
+- vegetarian
 ingredients:
 - 1.5 cups long-grain brown rice
 - salt
