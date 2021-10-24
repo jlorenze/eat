@@ -4,6 +4,7 @@ yield: 6
 time: 0.5
 tags:
 - mediterranean
+- salad
 ingredients:
 - 4 cups chopped romaine lettuce
 - 2 cups chopped cucumber
