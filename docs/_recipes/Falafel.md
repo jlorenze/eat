@@ -1,0 +1,49 @@
+---
+layout: recipe
+yield: 6
+time: 1
+tags:
+- mediterranean
+pair:
+- tahini sauce
+- tzatziki
+- cucumbers
+- hummus
+ingredients:
+- 2 cups dried chickpeas
+- 1/2 tsp baking soda
+- 1 cup fresh parsley
+- 3/4 cup fresh cilantro
+- 1/2 cup fresh dill
+- 1 small onion, quartered
+- 7-8 garlic cloves
+- 1 Tbsp salt
+- 1 Tbsp black pepper
+- 1 Tbsp cumin
+- 1 Tbsp coriander
+- 1/2 tsp cayenne pepper
+- 1 tsp baking powder
+- canola, peanut, or other frying oil
+directions:
+- One day in advance, soak dried chickpeas in water with baking soda for 18 hours or longer
+- Rinse and drain chickpeas, then dry completely
+- Blend/process chickpeas, herbs, onion, garlic, and spices into a coarse meal texture
+- Refrigerate mixture for at least 1 hour to make shaping easier
+- While heating oil on med-high heat to 375F, mix baking powder into falafel mixture
+- Form falafel mixture into balls or 1/2-inch thick patties, and fry for 3-5 minutes or until crispy and browned
+- Drain falafel in colander or paper towel-lined plate
+- Serve hot
+methods:
+- []
+- []
+- []
+- []
+- []
+- []
+- []
+- []
+notes:
+- Canned or cooked chickpeas won't work
+- Can freeze uncooked falafel patties, or refrigerate for a couple of days before cooking. Falafel can be cooked from frozen
+- Can also coat in oil and bake at 350F for 15-20 min, turning halfway
+---
