@@ -1,0 +1,31 @@
+---
+layout: recipe
+yield: 4-6
+time: .75
+tags:
+- vegetarian
+ingredients:
+- 2 Tbsp olive oil
+- 1/4 yellow onion, finely chopped
+- 1 celery stalk, finely chopped
+- 1 carrot, finely chopped
+- 1 garlic clove, minced
+- 1 cup green or brown lentils, rinsed
+- 1/3 cup dry white wine
+- 2 cups low-sodium chicken broth
+- 1 bay leaf
+- pinch dried thyme
+- salt
+- pepper
+- 3/4 cup heavy cream
+directions:
+- Heat oil over medium heat and add onions, celery, carrots, and garlic. Cook until softened (~8 min)
+- Add lentils and stir for 1 minute. Add wine, and simmer for about 30 seconds until mostly evaporated
+- Add broth, bay leaf, thyme, and season with salt and pepper. Bring to a boil then reduce heat and simmer, covered, until lentils have absorbed most liquid and still have slight bite (~25 min)
+- Stir in cream and simmer, uncovered, until lentils are tender and creamy (~5 min). Remove bay leaf and adjust seasonings
+methods:
+- []
+- []
+- []
+- []
+---
