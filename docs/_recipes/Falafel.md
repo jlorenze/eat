@@ -44,6 +44,6 @@ methods:
 - []
 notes:
 - Canned or cooked chickpeas won't work
-- Can freeze uncooked falafel patties, or refrigerate for a couple of days before cooking. Falafel can be cooked from frozen
+- Can freeze uncooked falafel patties. Falafel can be cooked from frozen
 - Can also coat in oil and bake at 350F for 15-20 min, turning halfway
 ---

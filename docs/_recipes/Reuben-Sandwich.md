@@ -25,6 +25,6 @@ methods:
 - []
 - []
 notes:
-- For a quick homemade Thousand Island, mix 1/2 cup mayonnaise, 2 Tbsp kethup, 2 Tbsp sweet relish, 1/4 tsp onion powder, and a dash of Worcestershire sauce
+- For a quick homemade Thousand Island, mix 1/2 cup mayonnaise, 2 Tbsp ketchup, 2 Tbsp sweet relish, 1/4 tsp onion powder, and a dash of Worcestershire sauce
 - Cut it diagonally or don't cut it at all
 ---

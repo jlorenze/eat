@@ -8,6 +8,7 @@ tags:
 pair:
 - fried green plantain chips
 - coconut rice
+- caribbean coleslaw
 - beans
 - zucchini
 ingredients:
@@ -21,7 +22,7 @@ ingredients:
 - 1 tbsp ground allspice
 - salt and pepper
 - 1 tsp ground coriander
-- 4 lbs chicken drumsticks
+- 4 lbs chicken drumsticks or 2 lbs chicken breast/thighs
 - lime
 directions:
 - Process scallions, oil, habanero, ginger, raisins, thyme, garlic, allspice, 2 tsp salt, 1/2 tsp pepper, and coriander
@@ -29,8 +30,8 @@ directions:
 - Add chicken to large bowl and toss, transfer to slow cooker
 - Cook 3 to 4 hours on low
 - Adjust over rack to 6 in from broiler, line pan with foil
-- Heat reserved paste in microwave for 20 seconds, brush chicken with half of paste
-- Broil 15 min turning halfway through and applying remaining paste
+- Heat reserved paste in microwave for 20 seconds and brush on chicken
+- Broil for a few minutes to crisp edges
 methods:
 - []
 - []
@@ -39,6 +40,4 @@ methods:
 - []
 - []
 - []
-notes:
-- Maybe simpler to use 2 lbs chicken thighs? Cooking for ~5 hours on low?
 ---
