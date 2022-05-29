@@ -1,0 +1,37 @@
+Cider
+
+Yield: 1 gallon
+
+Time (hours):
+
+Keywords: drinks
+
+Recommended Sides:
+
+Ingredients:
+1 gallon fresh apple juice with no preservatives or additives
+yeast, such as SafCider AB-1
+sugar (optional)
+acid blend (optional)
+potassium metabisulfite (optional)
+tannin (optional)
+
+
+Make:
+1. Test specific gravity of fresh juice. Should be in the range 1.040-1.050. Add some sugar to get to 1.045 (but <= 1.060).
+2. If juice tastes flat (not acidic enough), can add 4g acid blend to 1 gallon. Not strictly needed, but may be useful for some apple varieties that are low in acidity. Can also add scant 1/4 tsp tannin. <cider-ingredients>
+3. If juice is unpasteurized, add potassium metabisulfite to get 50-100 ppm SO2. Let sit for 24 hours. <k-metabisulfite>
+4. If juice is unpasteurized, create yeast starter by adding yeast to 1/4 cupwarm water (95-105F) and 3/4 cup pasteurized apple juice. Let sit for several ours or up to 1 day.
+5. Put juice in primary fermenter and add yeast starter (unpasteurized) or directy add yeast (pasteurized). Cover fermenter to keep out bugs. Careful when using an airlock at this point since primary fermentation can be strong and make a mess.
+6. Primary fermentation is complete when SG <= 1.020 (~1-2 weeks). Rack to gallon carboy and attach airlock.
+7. Continue fermenation until there is no more bubbling and SG <= 1.005 (a couple of weeks or up to 2 months). Check SG periodically to ensure fermentation doesn't stop early.
+8. Rack to new container, and let mature for up to another month before bottling. Never bottle if SG > 1.005!
+9. Add 1-2 oz sugar per gallon cider (for carbonation), and bottle.
+
+Notes:
+1. Pasteurized juice is okay as long as it doesn't have additives, such as Martinelli's.
+2. Adding approximately 2.25 oz of sugar to 1 gallon will add around .005 to specific gravity (SG).
+3. Always sanitize equipment before any contact with juice/cider. <wine-sanitizing>
+4. Ideal fermentation temperature is 40-55F.
+
+Cite:
