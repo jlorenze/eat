@@ -17,9 +17,9 @@ directions:
 - If juice is unpasteurized, add potassium metabisulfite to get 50-100 ppm SO2. Let sit for 24 hours
 - If juice is unpasteurized, create yeast starter by adding yeast to 1/4 cupwarm water (95-105F) and 3/4 cup pasteurized apple juice. Let sit for several ours or up to 1 day
 - Put juice in primary fermenter and add yeast starter (unpasteurized) or directy add yeast (pasteurized). Cover fermenter to keep out bugs. Careful when using an airlock at this point since primary fermentation can be strong and make a mess
-- Primary fermentation is complete when SG
-- Continue fermenation until there is no more bubbling and SG
-- Rack to new container, and let mature for up to another month before bottling. Never bottle if SG > 1.005!
+- Primary fermentation is complete when SG is less than or equal to 1.020 (~1-2 weeks). Rack to gallon carboy and attach airlock
+- Continue fermenation until there is no more bubbling and SG is less than or equal to 1.005 (a couple of weeks or up to 2 months). Check SG periodically to ensure fermentation doesn't stop early
+- Rack to new container, and let mature for up to another month before bottling. Never bottle if SG is greater than 1.005!
 - Add 1-2 oz sugar per gallon cider (for carbonation), and bottle
 methods:
 - []
@@ -27,8 +27,8 @@ methods:
 - ['k-metabisulfite']
 - []
 - []
-- ['= 1.020 (~1-2 weeks). Rack to gallon carboy and attach airlock.']
-- ["= 1.005 (a couple of weeks or up to 2 months). Check SG periodically to ensure fermentation doesn't stop early."]
+- []
+- []
 - []
 - []
 notes:
