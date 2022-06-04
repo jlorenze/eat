@@ -12,7 +12,7 @@ ingredients:
 - potassium metabisulfite (optional)
 - tannin (optional)
 directions:
-- Test specific gravity of fresh juice. Should be in the range 1.040-1.050. Add some sugar to get to 1.045 (but
+- Test specific gravity of fresh juice. Should be in the range 1.040-1.050. Add some sugar to get to 1.045 (but less than or equal to 1.060)
 - If juice tastes flat (not acidic enough), can add 4g acid blend to 1 gallon. Not strictly needed, but may be useful for some apple varieties that are low in acidity. Can also add scant 1/4 tsp tannin
 - If juice is unpasteurized, add potassium metabisulfite to get 50-100 ppm SO2. Let sit for 24 hours
 - If juice is unpasteurized, create yeast starter by adding yeast to 1/4 cupwarm water (95-105F) and 3/4 cup pasteurized apple juice. Let sit for several ours or up to 1 day
@@ -22,7 +22,7 @@ directions:
 - Rack to new container, and let mature for up to another month before bottling. Never bottle if SG > 1.005!
 - Add 1-2 oz sugar per gallon cider (for carbonation), and bottle
 methods:
-- ['= 1.060).']
+- []
 - ['cider-ingredients']
 - ['k-metabisulfite']
 - []

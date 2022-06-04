@@ -18,7 +18,7 @@ tannin (optional)
 
 
 Make:
-1. Test specific gravity of fresh juice. Should be in the range 1.040-1.050. Add some sugar to get to 1.045 (but <= 1.060).
+1. Test specific gravity of fresh juice. Should be in the range 1.040-1.050. Add some sugar to get to 1.045 (but less than or equal to 1.060).
 2. If juice tastes flat (not acidic enough), can add 4g acid blend to 1 gallon. Not strictly needed, but may be useful for some apple varieties that are low in acidity. Can also add scant 1/4 tsp tannin. <cider-ingredients>
 3. If juice is unpasteurized, add potassium metabisulfite to get 50-100 ppm SO2. Let sit for 24 hours. <k-metabisulfite>
 4. If juice is unpasteurized, create yeast starter by adding yeast to 1/4 cupwarm water (95-105F) and 3/4 cup pasteurized apple juice. Let sit for several ours or up to 1 day.
