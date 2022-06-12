@@ -18,7 +18,7 @@ ingredients:
 - 1/2 cup EVOO
 directions:
 - Adjust oven rack to middle and preheat to 300F
-- Pulse 1.5 cups almonds, flour, salt, baking powder, and baking soda in food processor until finely ground
+- Pulse 1.5 cups almonds, flour, salt, baking powder, and baking soda in food processor until finely ground. Transfer to bowl
 - Process eggs, 1.25 cups sugar, 1 Tbsp lemon zest, and almond extract until pale yellow and frothy (~30 seconds). Slowly add in oil until incorporated (~10 seconds). Add almond mixture and pulse to combine
 - Transfer batter to greased 9 inch round cake pan lined with parchment paper
 - Combine remaining 2 Tbsp sugar and 1/2 tsp lemon zest. Sprinkle top of cake with remaining 1/3 cup almonds, followed by sugar-zest mixture
