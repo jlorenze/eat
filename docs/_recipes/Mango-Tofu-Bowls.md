@@ -5,9 +5,9 @@ time: 1.25
 tags:
 - asian
 ingredients:
-- 12-15 oz block extra-firm tofu
-- 1 Tbsp olive oil
-- 3 Tbsp soy sauce
+- 2 12-15 oz blocks extra-firm tofu
+- 2 Tbsp olive oil
+- 4 Tbsp soy sauce
 - 1 Tbsp cornstarch
 - 1.25 cups long-grain brown rice, rinsed
 - 1/3 cup creamy peanut butter
@@ -28,9 +28,9 @@ directions:
 - Drain tofu and gently squeeze out excess water. Slice into 1/2 cubes and use a weight to press out water for 10-30 minutes
 - Boil rice uncovered for 30 minutes, the drain off water, return to pot, and let rest for 10 minutes
 - Preheat oven to 400F and line baking sheet with parchment paper
-- Toss pressed tofu with olive oil and 1 Tbsp soy sauce, then toss with cornstarch. Transfer to baking sheet in single layer
+- Toss pressed tofu with olive oil and 2 Tbsp soy sauce, then toss with cornstarch. Transfer to baking sheet in single layer
 - Bake for 25-30 minutes until deeply golden on edges, tossing halfway
-- Prepare peanut sauce by whisking peanut butter, 3 Tbsp lime juice, honey, sesame oil, garlic, and red pepper flakes
+- Prepare peanut sauce by whisking peanut butter, 2 Tbsp soy sauce, 3 Tbsp lime juice, honey, sesame oil, garlic, and red pepper flakes
 - Mix mango, red bell pepper, green onion, cilantro, jalapeno, salt, 2 Tbsp lime juice, and green cabbage in bowl
 - Assemble bowls, top with roasted peanuts
 methods:
