@@ -6,15 +6,15 @@ tags:
 - breakfast
 - sandwich
 ingredients:
-- 1 bagel
+- 1 bagel, sliced
 - 2 eggs
-- bacon, sausage, ham, or any other meat
-- american, jack, or other cheese
+- bacon, sausage, ham, or other meat
+- american, jack, cream, or other cheese
 - mayo
 - Sriracha
-- greens
+- arugula or other greens
 directions:
-- Cook meat and scramble eggs
+- Cook meat and scramble eggs. Season eggs with salt and pepper
 - Toast bagel
 - Assemble with desired toppings
 methods:

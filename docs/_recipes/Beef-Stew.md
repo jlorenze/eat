@@ -9,7 +9,7 @@ pair:
 - salad
 ingredients:
 - 1 tbsp extra-virgin olive oil
-- 2-3 lbs bonesless beef chuck-eye roast, trimmed to 1.5 in pieces
+- 2-3 lbs boneless beef chuck-eye roast, trimmed to 1.5 in pieces
 - 1 lb mushrooms, diced
 - 1 large onion, diced
 - 3 tbsp tomato paste

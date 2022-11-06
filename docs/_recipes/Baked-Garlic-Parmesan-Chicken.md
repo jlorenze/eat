@@ -10,6 +10,7 @@ pair:
 - salad
 - asparagus
 - roasted tomato
+- broccoli
 ingredients:
 - 2 tbsp olive oil
 - 1 clove garlic, minced
