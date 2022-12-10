@@ -12,8 +12,8 @@ pair:
 - eggplant roasted tomato hummus
 - 
 ingredients:
+- 1/2 lb dried chickpeas
 - 1 red bell pepper, roasted
-- 2 15 oz cans chickpeas, drained, liquid reserved
 - 1 clove garlic, minced
 - 1/2 tsp salt
 - 1/2 tsp cumin
@@ -23,11 +23,13 @@ ingredients:
 - 3/4 tsp paprika
 - 1/4 tsp cayenne pepper
 directions:
-- Place chickpeas in food processor with garlic, salt, cumin. Process 30 seconds. Add tahini, process more
-- Add lemon juice and 1/4 cup reserved bean liquid, process
+- Cook chickpeas
+- Place chickpeas in food processor with garlic, salt, cumin. Process 30 seconds. Add tahini and lemon juice, process more
 - Add olive oil, process
 methods:
+- ['chickpeas']
 - []
 - []
-- []
+notes:
+- Can replace dried chickpeas with 30 oz canned chickpeas, drained
 ---

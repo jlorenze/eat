@@ -6,6 +6,8 @@ tags:
 - crockpot
 - meat
 - american
+pair:
+- southern style coleslaw
 ingredients:
 - 1.75 cups barbecue sauce
 - 1/4 cup packed dark brown sugar
