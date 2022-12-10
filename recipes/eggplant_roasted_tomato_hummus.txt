@@ -2,14 +2,14 @@ Eggplant Roasted Tomato Hummus
 
 Yield: 6 to 8
 
-Time (hours): 0.5
+Time (hours): 1.0
 
 Keywords: mediterranean
 
 Recommended Sides: bread, pita, carrots, garlic hummus, roasted red bell hummus
 
 Ingredients:
-2 15 oz cans chickpeas, drained, liquid reserved
+1/2 lb dried chickpeas 
 2 cloves garlic, minced (not 4)
 1 tsp salt
 1/2 tsp cumin
@@ -21,8 +21,11 @@ paprika to taste
 1 eggplant
 
 Make:
-1. Prick eggplant with fork and bake 40 min at 400F.
-2. Place chickpeas in food processor with garlic, salt, cumin. Process 30 seconds. Add tahini, process more.
-3. Add lemon juice and 1/4 cup reserved bean liquid, process.
+1. Cook chickpeas. <chickpeas>
+2. Prick eggplant with fork and bake 40 min at 400F.
+3. Place chickpeas in food processor with garlic, salt, cumin. Process 30 seconds. Add tahini and lemon juice, process more.
 4. Add olive oil, process.
 5. Add tomatoes and eggplant flesh, process.
+
+Notes:
+1. Can replace dried chickpeas with 30 oz canned chickpeas, drained.

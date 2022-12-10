@@ -9,8 +9,8 @@ Keywords: mediterranean
 Recommended Sides: bread, pita, carrots, garlic hummus, eggplant roasted tomato hummus,
 
 Ingredients:
+1/2 lb dried chickpeas 
 1 red bell pepper, roasted
-2 15 oz cans chickpeas, drained, liquid reserved
 1 clove garlic, minced
 1/2 tsp salt
 1/2 tsp cumin
@@ -21,6 +21,9 @@ Ingredients:
 1/4 tsp cayenne pepper
 
 Make:
-1. Place chickpeas in food processor with garlic, salt, cumin. Process 30 seconds. Add tahini, process more.
-2. Add lemon juice and 1/4 cup reserved bean liquid, process.
+1. Cook chickpeas. <chickpeas>
+2. Place chickpeas in food processor with garlic, salt, cumin. Process 30 seconds. Add tahini and lemon juice, process more.
 3. Add olive oil, process.
+
+Notes:
+1. Can replace dried chickpeas with 30 oz canned chickpeas, drained.
