@@ -9,6 +9,4 @@ steps:
 - Preheat oven to 450F, season chicken with salt, pepper, and rub with olive oil or butter.
 - Bake 15-18 minutes until done (165F).
 - Remove and let rest under tented foil for 5-10 minutes before cutting.
-notes:
-- None
 ---
