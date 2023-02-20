@@ -32,7 +32,9 @@ directions:
 - Stuff cavity with remaining quartered yellow onion, quartered lemon, and a couple extra sprigs of rosemary and thyme. Tie legs together with kitchen twine
 - Place chicken in dutch oven, breast side up, and tuck wings under to avoid burning
 - Cover lid securely and roast for 1 hour 15 minutes covered, and then another 30 minutes uncovered. Temperature at thickest part of thigh should reach 165F
+- Let rest for 15 minutes in dutch oven
 methods:
+- []
 - []
 - []
 - []
