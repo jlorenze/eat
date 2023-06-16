@@ -15,7 +15,7 @@ ingredients:
 - 1/2 tsp baking soda
 - 3/4 tsp salt
 - 2.5 cups milk
-- 1/4 coconut oil or butter, melted but cooled
+- 1/4 cup coconut oil or butter, melted but cooled
 - 2 Tbsp lemon juice
 - 2 tsp vanilla extract
 directions:

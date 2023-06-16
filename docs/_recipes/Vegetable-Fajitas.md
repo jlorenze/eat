@@ -36,4 +36,5 @@ methods:
 - []
 notes:
 - Can also add shredded chicken for additional protein
+- Can replace black beans with refried beans
 ---
