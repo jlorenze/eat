@@ -19,6 +19,7 @@ ingredients:
 - blueberries + lemon zest + honey
 - brown sugar + maple syrup + cinnamon
 - protein powder
+- 1/4 cup pumpkin puree + 1/2 tsp pumpkin pie spice
 directions:
 - Place oats, milk, yogurt, chia seeds, sweetener, extact, and some salt in a jar and mix until combined
 - Refrigerator overnight
