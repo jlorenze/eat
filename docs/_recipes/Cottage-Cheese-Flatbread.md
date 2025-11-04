@@ -6,8 +6,8 @@ tags:
 - bread
 ingredients:
 - 1 cup AP flour
-- 2 tsp salt
-- 2 Tbsp baking powder
+- 1/2 tsp salt
+- 1/2 Tbsp baking powder
 - 3/4 cup whipped cottage cheese
 directions:
 - Mix flour, salt, and baking powder until well combined
