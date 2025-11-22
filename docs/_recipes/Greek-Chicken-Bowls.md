@@ -12,6 +12,24 @@ ingredients:
 - 1 tsp dried oregano
 - 1/2 tsp pepper
 - zest and juice from 2 lemons
+- 1 green bell pepper
+- 1 red bell pepper
+- 1 red onion
+- 2 zucchini
+- 1 yellow squash
+- 2 english cucumbers
+- 1 red bell pepper
+- 1/2 cup kalamata olives
+- 1 can garbanzo beans, drained and rinsed
+- 1/2 cup feta cheese
+- 1 tsp oregano
+- 1 tsp garlic powder
+- 1/4 tsp dried dill
+- 1/2 tsp salt
+- 1/4 tsp pepper
+- fresh parsley, chopped
+- 2 cups dried white rice
+- tzatziki sauce
 directions:
 - Brine chicken with 1/4 cup salt in 4 cups water for 30 min
 - Combine 1/4 cup olive oil, 3 cloves garlic, 1/2 tsp dried oregano, 1/2 tsp pepper, lemon zest, and lemon juice
