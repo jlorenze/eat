@@ -7,6 +7,7 @@ tags:
 pair:
 - classic grilled cheese
 - pesto grilled cheese
+- tuna melt
 ingredients:
 - 2 Tbsp EVOO
 - 1 medium yellow onion, chopped
@@ -33,4 +34,6 @@ methods:
 - []
 notes:
 - Basil is king
+- For thicker soup I use a full can of beans
+- Can throw in some celery as well
 ---
