@@ -1,0 +1,42 @@
+---
+layout: recipe
+yield: 1
+time: 18
+tags:
+- bread
+ingredients:
+- 512g (4 cups) AP flour
+- 10-15g (2-3 tsp) salt
+- 8g (2 tsp) instant yeast
+- 455g (2 cups) lukewarm water
+- 4 Tbsp olive oil
+- flaky sea salt
+- rosemary, based, or other toppings
+directions:
+- Whisk flour, salt, yeast. Add water. Mix until combined, cover and rest for 30 min
+- Stretch and fold dough with wet hand
+- Rub surface with some oil, cover and refrigerate 12 hours or up to 3 days
+- Line 9x13 inch or cast iron with parchment or grease with some butter to help prevent sticking
+- Pour 2 Tbsp oil into pan. Deflate dough gently and move to pan, then roll in oil to coat and form into rough ball
+- Let rest for 3-4 hours (don't need to cover since oil protects)
+- Preheat oven to 425F
+- Sprinkle toppings on dough, then pour 2 Tbsp oil and using fingers to dimple, stretching dough to fill pan
+- Bake 25-30 min, until underside is golden and crisp
+- Transfer from pan and cool on wire rack
+- Store in airtight bag and store at room temperature. Reheat in oven at 350F
+methods:
+- []
+- []
+- []
+- []
+- []
+- []
+- []
+- []
+- []
+- []
+- []
+notes:
+- Cold dough from the rest in the fridge is key!
+- If you need to shorten time, let mixed dough rise at room temperature until doubled (1.5-2 hours), then proceed with the recipe. Note the second rise may take a bit longer
+---
