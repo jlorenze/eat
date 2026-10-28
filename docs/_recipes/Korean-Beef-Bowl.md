@@ -11,7 +11,7 @@ ingredients:
 - carrots, shredded
 - cucumbers, sliced
 - seasoned rice vinegar
-- 1/4 brown sugar
+- 1/4 cup brown sugar
 - 1/4 cup reduced sodium soy sauce
 - 2 tsp sesame oil
 - 1/2 tsp crushed red pepper flakes
